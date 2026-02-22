@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function Footer() {
     return (
@@ -8,9 +9,9 @@ export default function Footer() {
                     &copy; {new Date().getFullYear()} POLITRACK. Tous droits réservés.
                 </div>
                 <div className="flex space-x-4">
-                    <a href="#" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">Mentions légales</a>
-                    <a href="#" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">Confidentialité</a>
-                    <a href="#" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">Contact</a>
+                    <Link href="/mentions-legales" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">Mentions légales</Link>
+                    <a href="/mentions-legales" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">Confidentialité</a>
+                    <a href="https://github.com/niark2/Politrack" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-900 transition-colors uppercase tracking-widest font-bold">GitHub</a>
                 </div>
             </div>
         </footer>
