@@ -6,6 +6,7 @@ export interface Election {
     targetDate?: string;
     isDefault?: boolean;
     flag?: string;
+    archived?: boolean;
 }
 
 export interface Candidate {

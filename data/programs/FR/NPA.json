@@ -1,0 +1,94 @@
+{
+  "lastUpdate": "22/02/2026",
+  "programs": [
+    {
+      "partyId": "NPA",
+      "partyName": "Nouveau Parti Anticapitaliste",
+      "color": "#BB0000",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/0/06/Logo_NPA.png",
+      "description": "Le NPA est un parti révolutionnaire anticapitaliste qui vise à renverser le système capitaliste pour instaurer un socialisme démocratique, écologique et féministe du XXIe siècle. Il dénonce les crises multiples du capitalisme – économique, écologique, sociale – et prône l'expropriation des grands groupes pour placer les moyens de production sous contrôle des travailleurs et de la population. Il met l'accent sur l'auto-organisation, la lutte contre toutes les oppressions et une rupture complète avec l'État bourgeois et les institutions européennes.",
+      "categories": [
+        {
+          "name": "Économie",
+          "measures": [
+            {
+              "title": "Expropriation du CAC 40",
+              "description": "Expropriation sans indemnité des grands groupes capitalistes du CAC 40 et des secteurs clés pour les placer sous propriété et contrôle des salariés et de la population via une planification démocratique. Cela permettrait de réorienter la production vers les besoins sociaux plutôt que les profits. Les banques seraient réunifiées en un pôle public géré par les usagers.",
+              "impact": "high"
+            },
+            {
+              "title": "Augmentation salariale massive",
+              "description": "Ponctionner les profits des entreprises (100 milliards annuels du CAC 40) pour porter tous les salaires, minima sociaux et pensions à 2000 euros minimum. Interdiction des licenciements avec réquisition des entreprises fautives. Partage du temps de travail pour abolir le chômage.",
+              "impact": "high"
+            },
+            {
+              "title": "Réduction du temps de travail",
+              "description": "Réduction massive et partage du temps de travail grâce aux progrès technologiques, pour émanciper les travailleurs et permettre l'autogestion des entreprises. Salaire maintenu à 100% en cas de chômage, maladie ou formation.",
+              "impact": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Écologie",
+          "measures": [
+            {
+              "title": "Sortie du nucléaire",
+              "description": "Sortie rapide du nucléaire civil et militaire, considéré comme une menace pour l'environnement et la santé. Développement d'énergies renouvelables gérées par des services publics sous contrôle des usagers.",
+              "impact": "high"
+            },
+            {
+              "title": "Relocalisation et décroissance",
+              "description": "Relocalisation de l'économie, décroissance des ressources non renouvelables, remise en cause des secteurs polluants et inutiles. Planification démocratique pour réconcilier humain et nature dans un écosocialisme.",
+              "impact": "high"
+            },
+            {
+              "title": "Souveraineté alimentaire",
+              "description": "Opposition aux OGM, soutien aux petites exploitations agricoles, production locale de biens sains pour assurer la souveraineté alimentaire et préserver les territoires ruraux.",
+              "impact": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Social",
+          "measures": [
+            {
+              "title": "Logement pour tous",
+              "description": "Arrêt des expulsions, réquisition des logements vides, construction de 200 000 logements sociaux par an, blocage des loyers, nationalisation des HLM.",
+              "impact": "high"
+            },
+            {
+              "title": "Droit des femmes",
+              "description": "Avortement et contraception libres et gratuits, services publics contre la double journée, lutte contre violences sexistes. Auto-organisation des femmes au cœur du programme féministe.",
+              "impact": "medium"
+            },
+            {
+              "title": "Services publics gratuits",
+              "description": "Santé, éducation, transports, énergie comme biens communs publics gérés par salariés et usagers. Gratuité des transports et renforcement des services dans les quartiers populaires.",
+              "impact": "high"
+            },
+            {
+              "title": "Égalité immigrés",
+              "description": "Régularisation de tous les sans-papiers, libre circulation, égalité des droits, droit de vote pour les immigrés. Lutte contre racisme et violences policières.",
+              "impact": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Démocratie",
+          "measures": [
+            {
+              "title": "Révolution institutionnelle",
+              "description": "Renversement de l'État bourgeois pour de nouvelles institutions sous contrôle populaire. Suppression du Sénat, rotation des mandats, révocabilité des élus, salaire des élus au SMIC.",
+              "impact": "high"
+            },
+            {
+              "title": "Démocratie directe",
+              "description": "Référendums fréquents, auto-organisation dans les entreprises et quartiers, désarmement policier, fin de la vidéosurveillance et répression.",
+              "impact": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

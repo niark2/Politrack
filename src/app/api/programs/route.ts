@@ -50,8 +50,12 @@ export async function GET(request: Request) {
                     const filePath = path.join(programsDir, file);
                     const fileContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-                    // Add to programs array
-                    combinedPrograms.push(fileContent);
+                    // Add to programs array (support both single-program files and multi-program files)
+                    if (fileContent.programs && Array.isArray(fileContent.programs)) {
+                        combinedPrograms.push(...fileContent.programs);
+                    } else if (fileContent.partyId || fileContent.partyName) {
+                        combinedPrograms.push(fileContent);
+                    }
 
                     // Track latest update date
                     if (fileContent.lastUpdate && (latestUpdate === "N/A" || fileContent.lastUpdate > latestUpdate)) {

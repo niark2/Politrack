@@ -10,12 +10,13 @@
     },
     {
         "id": "france-leg",
-        "name": "Législatives",
+        "name": "Législatives 2024",
         "type": "legislative",
         "country": "FR",
         "flag": "🇫🇷",
         "targetDate": "2028-07-07",
-        "isDefault": false
+        "isDefault": false,
+        "archived": true
     },
     {
         "id": "municipale",

@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { LayoutDashboard, TrendingUp, Loader2, BookOpen } from "lucide-react";
+import { LayoutDashboard, TrendingUp, Loader2, BookOpen, Archive, ChevronDown } from "lucide-react";
 import { CandidateCard } from "@/components/CandidateCard";
 
 // Components
@@ -129,8 +129,8 @@ export default function Home() {
           </div>
 
           {/* Election Selectors */}
-          <div className="flex items-center gap-2 border-b border-zinc-200 pb-1 overflow-x-auto no-scrollbar">
-            {elections.map((election: Election) => (
+          <div className="flex items-center gap-2 border-b border-zinc-200 pb-1">
+            {elections.filter(e => !e.archived).map((election: Election) => (
               <button
                 key={election.id}
                 onClick={() => setSelectedElection(election)}
@@ -144,16 +144,70 @@ export default function Home() {
                 <span className="text-sm uppercase tracking-tight">{election.name}</span>
               </button>
             ))}
+
+            {/* Archives Dropdown */}
+            {elections.some(e => e.archived) && (
+              <div className="relative group">
+                <button
+                  className={`flex items-center gap-2 px-4 py-2 border-b-2 transition-all whitespace-nowrap ${selectedElection?.archived
+                    ? "border-zinc-900 text-zinc-900 font-black"
+                    : "border-transparent text-zinc-400 font-bold hover:text-zinc-600"
+                    }`}
+                >
+                  <Archive className="h-4 w-4" />
+                  <span className="text-sm uppercase tracking-tight">Archives</span>
+                  <ChevronDown className="h-3 w-3 opacity-50 group-hover:rotate-180 transition-transform duration-200" />
+                </button>
+
+                <div className="absolute left-0 mt-0 pt-1 w-56 invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 z-[100]">
+                  <div className="bg-white border border-zinc-200 rounded-xl shadow-xl overflow-hidden translate-y-2 group-hover:translate-y-0 transition-transform duration-200">
+                    <div className="px-4 py-2 bg-zinc-50 border-b border-zinc-100">
+                      <span className="text-[10px] font-black uppercase tracking-widest text-zinc-400">Élections passées</span>
+                    </div>
+                    {elections.filter(e => e.archived).map((election: Election) => (
+                      <button
+                        key={election.id}
+                        onClick={() => setSelectedElection(election)}
+                        className={`w-full flex items-center gap-3 px-4 py-3 hover:bg-zinc-50 transition-all text-left ${selectedElection?.id === election.id ? "bg-zinc-100" : ""}`}
+                      >
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src={countryFlagUrl(election.country)} alt={election.country} className="w-5 h-[15px] rounded-sm object-cover" />
+                        <span className={`text-xs uppercase tracking-tight font-bold ${selectedElection?.id === election.id ? "text-zinc-900" : "text-zinc-500"}`}>
+                          {election.name}
+                        </span>
+                        {selectedElection?.id === election.id && (
+                          <div className="ml-auto w-1.5 h-1.5 rounded-full bg-zinc-900" />
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         </header>
 
+        {selectedElection?.archived && (
+          <div className="bg-zinc-100 border border-zinc-200 rounded-xl px-6 py-3 flex items-center gap-4 animate-in fade-in slide-in-from-top-2 duration-500">
+            <Archive className="h-5 w-5 text-zinc-500" />
+            <div className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">
+              <span className="w-fit px-2 py-0.5 rounded bg-zinc-900 text-[10px] font-black text-white uppercase tracking-wider">Archivé</span>
+              <p className="text-sm font-bold text-zinc-600">
+                Cette élection est terminée. Consultation des données historiques uniquement.
+              </p>
+            </div>
+          </div>
+        )}
+
         {activeTab === "dashboard" ? (
           <div className="space-y-8 animate-in fade-in duration-500">
-            <GlobalStats
-              daysRemaining={daysRemaining}
-              selectedElection={selectedElection}
-              countdownTitle={config.dashboardCountdownTitle}
-            />
+            {!selectedElection?.archived && (
+              <GlobalStats
+                daysRemaining={daysRemaining}
+                selectedElection={selectedElection}
+                countdownTitle={config.dashboardCountdownTitle}
+              />
+            )}
 
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
               <div className="lg:col-span-2 space-y-8">

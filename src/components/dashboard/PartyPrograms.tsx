@@ -17,8 +17,8 @@ export const PartyPrograms: React.FC<PartyProgramsProps> = ({ programs, loading,
     const [searchTerm, setSearchTerm] = useState("");
 
     const filteredPrograms = programs.filter(p =>
-        p.partyName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        p.description.toLowerCase().includes(searchTerm.toLowerCase())
+        (p?.partyName?.toLowerCase() || "").includes(searchTerm.toLowerCase()) ||
+        (p?.description?.toLowerCase() || "").includes(searchTerm.toLowerCase())
     );
 
     if (loading) {

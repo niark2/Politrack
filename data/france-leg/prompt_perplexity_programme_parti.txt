@@ -1,0 +1,35 @@
+Cherche le programme politique complet et détaillé pour le parti [NOM_DU_PARTI] en vue des prochaines élections.
+Je veux une synthèse structurée de leurs propositions phares.
+
+RÈGLES :
+1. 'lastUpdate' : Date du jour au format DD/MM/YYYY.
+2. 'partyId' : Acronyme ou identifiant court du parti (ex: PCF, RN, PS, LFI).
+3. 'partyName' : Nom complet du parti.
+4. 'description' : Un paragraphe de 3-4 lignes résumant la vision globale du parti.
+5. 'categories' : Divise le programme en catégories logiques (ex: Économie, Écologie, Social, etc.).
+6. 'measures' : Pour chaque catégorie, liste 3 à 5 mesures concrètes avec :
+   - 'title' : Un titre court et percutant.
+   - 'description' : Une explication détaillée de la mesure (2-3 phrases).
+   - 'impact' : Évalue l'impact (choisir parmi "low", "medium", "high").
+
+FORMAT JSON ATTENDU (Objet unique par fichier) :
+{
+  "lastUpdate": "DD/MM/YYYY",
+  "partyId": "[ID]",
+  "partyName": "[NOM_COMPLET]",
+  "color": "[COULEUR_HEX_OFFICIELLE]",
+  "logoUrl": "[URL_LOGO_WIKIMEDIA_OU_OFFICIEL]",
+  "description": "...",
+  "categories": [
+    {
+      "name": "Économie",
+      "measures": [
+        {
+          "title": "...",
+          "description": "...",
+          "impact": "high"
+        }
+      ]
+    }
+  ]
+}

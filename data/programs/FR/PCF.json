@@ -1,0 +1,200 @@
+{
+    "lastUpdate": "22/02/2026",
+    "partyId": "PCF",
+    "partyName": "Parti communiste français",
+    "color": "#CC0000",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_du_Parti_communiste_fran%C3%A7ais_%282018%2C_rouge%29.svg",
+    "description": "Le PCF défend un projet de rupture avec le capitalisme, priorisant l'humain d'abord via une Sécurité sociale du XXIe siècle, une transition écologique et industrielle juste, et une nouvelle République sociale et démocratique. Il propose un pacte national pour l'avenir de la France, avec des investissements massifs au service des salaires, des services publics et de la paix. Face aux crises économiques, climatiques et sociales, le parti appelle à unir le monde du travail pour des transformations radicales vers le socialisme actualisé.",
+    "categories": [
+        {
+            "name": "Économie & Pouvoir d'achat",
+            "measures": [
+                {
+                    "title": "Hausse immédiate du SMIC de 20%",
+                    "description": "Augmenter le SMIC de 20%, les salaires et minima sociaux, indexer sur l'inflation pour garantir une vie digne. Contraindre les entreprises à l'égalité femmes-hommes et porter les retraites à 1400 euros minimum. Cela vise à relancer la consommation et réduire les inégalités face à l'austérité.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Fonds public de 500 milliards d'euros",
+                    "description": "Créer un fonds de 500 milliards pour industrialisation sociale/écologique, relocalisation et services publics. Mobiliser Caisse des dépôts pour 200 000 logements/an et infrastructures. Nationaliser secteurs stratégiques pour réorienter l'économie vers l'emploi utile.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Pôle public bancaire nationalisé",
+                    "description": "Nationaliser banques sous contrôle salariés pour crédit social/écologique à taux zéro. Conditionner aides publiques à progrès social/écolo, taxer capital et fortunes. Lutter contre évasion fiscale pour financer Sécurité sociale.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Planification démocratique de l'économie",
+                    "description": "Institutions de planification via conférences pour emploi/formation/éco, avec engagements entreprises/État. Droit de veto salariés sur licenciements et préemption coopérative. Reconquérir filières industrielles stratégiques.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Fiscalité redistributive massive",
+                    "description": "Rétablir ISF, taxer revenus financiers (47 Md€), supprimer CICE pour PME/emplois. Cotisation sur produits financiers pour consolider Sécu. Recruter contre fraude fiscale.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Écologie (Climat/Énergie)",
+            "measures": [
+                {
+                    "title": "Doubler énergie décarbonée d'ici 2050",
+                    "description": "Construire 20 EPR2, développer renouvelables sous maîtrise publique, relancer réacteur neutrons rapides. Diviser par 2 tarifs énergie, investir hydrogène vert nucléaire. Plan climat Empreinte2050 pour secteurs émetteurs.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Rénovation thermique 700 000 logements/an",
+                    "description": "Rénover 700 000 logements par an pour fin pauvreté énergétique et efficacité. Investissements publics massifs bâtiments. Transports écologiques/collectifs prioritaires.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Transformation agro-écologique paysanne",
+                    "description": "Développer emploi/formation agricole, rémunération garantie, assurance risques. Accès universel alimentation saine/durable via circuits courts relocalisés. Objectifs européens empreinte carbone.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Sortir marché UE électricité",
+                    "description": "Sortir marché européen électricité tout en interconnexions, mobiliser BCE fonds développement. Plan relocalisation industries/agriculture réduisant transports.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Investissements ferroviaires massifs",
+                    "description": "Plan rail/ports/fluvial pour préférer train, baisser prix billets. Financer via fonds public.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Social (Santé/Éducation)",
+            "measures": [
+                {
+                    "title": "Remboursement 100% Sécu soins",
+                    "description": "Rembourser soins 100%, Sécu bien commun gérée par cotisants. Créer 100 000 postes hôpital, pôle public médicaments taxé pharma. Plan pré-recrutement soignants.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Reconstruire services publics urgence",
+                    "description": "Plan urgence Éducation/hôpitaux/transports/petite enfance/énergie. Recruter massivement agents, revaloriser salaires/conditions. Budget culture 1% PIB.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Abroger Parcoursup, université gratuite",
+                    "description": "Supprimer sélection entrée université, revenu autonomie étudiants. Construire universités/écoles ingénieurs, 10% embauches <25 ans. Ministère Enfance constitutionnel.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Plan anti-pauvreté et exclusion",
+                    "description": "Lutte grande pauvreté, indexer retraites salaire moyen. 200 000 logements/an, lutte sans-abrisme via réquisitions.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Logement social 35% programmes neufs",
+                    "description": "Exiger 35% logements sociaux neufs, subventions HLM. Assises locales co-construction.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Sécurité & Justice",
+            "measures": [
+                {
+                    "title": "Police de proximité renforcée",
+                    "description": "Plan pré-recrutement police proximité, revaloriser métiers. Plan action contre racisme/antisémitisme discriminations emploi/logement.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Recrutements douaniers et justice",
+                    "description": "Plan embauches douaniers/policiers/justice sous statut. Améliorer conditions travail/salaires.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Loi-cadre violences sexistes 1 Md€",
+                    "description": "Loi 1 milliard € éliminer violences, égalité pro femmes-hommes en 1 an. Inéligibilité haine raciale.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Droit d'asile élargi et voies légales",
+                    "description": "Ouvrir voies migrations légales contre passeurs, abroger Dublin. Soutien sans-papiers, régularisation travailleurs.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Immigration",
+            "measures": [
+                {
+                    "title": "Régularisation travailleurs sans-papiers",
+                    "description": "Régulariser sans-papiers, égalité droits tous travailleurs. Lutte mise concurrence salariés.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Droit d'asile européen effectif",
+                    "description": "Droit asile UE quelles violences, voies légales anti-trafic humain. Refuser Dublinage solidarité.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Soutien précaires et sans-papiers local",
+                    "description": "Communes soutien sans-papiers, protection emploi/environnement.",
+                    "impact": "low"
+                },
+                {
+                    "title": "Vote résidents étrangers locales",
+                    "description": "Vote résidents étrangers élections locales/européennes.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Europe & International",
+            "measures": [
+                {
+                    "title": "Autre Europe nations souveraines",
+                    "description": "Négocier nouveaux traités respect souveraineté, rompre pacte stabilité austérité. Mobiliser BCE fonds services publics.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Sortir OTAN commandement intégré",
+                    "description": "Sortir OTAN vers dissolution, désarmement nucléaire TIAN. Cessez-le-feu Ukraine/Russie conférence sécurité.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Reconnaître Palestine, paix Gaza",
+                    "description": "Cessez-le-feu Gaza, reconnaître Palestine, suspendre accord UE-Israël. Briser blocus Cuba.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Nouvel ordre international coopération",
+                    "description": "Transformer OMC commerce partagé, monnaie coopération anti-dollar. Coopérations Sud.",
+                    "impact": "medium"
+                }
+            ]
+        },
+        {
+            "name": "Institutions",
+            "measures": [
+                {
+                    "title": "Réduire présidentialisme, pouvoir Parlement",
+                    "description": "Rendre pouvoir Parlement contre présidentialisme, abroger lois liberticides. RIC, pétition 500k électeurs.",
+                    "impact": "high"
+                },
+                {
+                    "title": "Démocratie sociale et citoyenne",
+                    "description": "Nouveaux pouvoirs salariés entreprises, conférences citoyennes co-élaboration lois. Vote résidents locaux.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Moyens redonnés collectivités",
+                    "description": "Redonner moyens finances communes/collectivités, rôle CESE/CESER renforcé.",
+                    "impact": "medium"
+                },
+                {
+                    "title": "Laïcité et indépendance médias",
+                    "description": "Réaffirmer laïcité République, loi protéger audiovisuel public.",
+                    "impact": "low"
+                }
+            ]
+        }
+    ]
+}
