@@ -1,0 +1,49 @@
+{
+    "cachedAt": 1708479305678,
+    "lastUpdate": "07/07/2024",
+    "duel": "Projection de l'Hémicycle",
+    "candidates": [
+        {
+            "name": "NFP",
+            "fullName": "Nouveau Front Populaire",
+            "score": 184,
+            "color": "#E41B23",
+            "orientation": "Gauche"
+        },
+        {
+            "name": "ENS",
+            "fullName": "Ensemble pour la République",
+            "score": 160,
+            "color": "#FFC000",
+            "orientation": "Centre"
+        },
+        {
+            "name": "RN",
+            "fullName": "Rassemblement National & Alliés",
+            "score": 142,
+            "color": "#004494",
+            "orientation": "Extrême-Droite"
+        },
+        {
+            "name": "LR",
+            "fullName": "Les Républicains (et UDI/Divers droite)",
+            "score": 68,
+            "color": "#0066CC",
+            "orientation": "Droite"
+        },
+        {
+            "name": "DVG",
+            "fullName": "Divers Gauche",
+            "score": 11,
+            "color": "#C000C0",
+            "orientation": "Gauche"
+        },
+        {
+            "name": "Divers",
+            "fullName": "Autres (divers, régionalistes, divers écologistes, etc.)",
+            "score": 12,
+            "color": "#999999",
+            "orientation": "Centre"
+        }
+    ]
+}

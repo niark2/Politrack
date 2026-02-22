@@ -1,0 +1,200 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "RN",
+  "partyName": "Rassemblement National",
+  "color": "#0D378A",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Rassemblement_National.svg",
+  "description": "Le Rassemblement National se positionne comme un mouvement de droite nationale souverainiste, défendant la priorité nationale et la préférence française dans l'accès aux aides sociales. Son projet repose sur trois urgences : le pouvoir d'achat, la sécurité et la maîtrise de l'immigration. Économiquement, le parti prône une fiscalité allégée pour les ménages modestes et les PME, tout en voulant réduire le déficit public sous 3 % du PIB. Sur le plan institutionnel, il défend la restauration de la souveraineté française face aux institutions supranationales.",
+  "categories": [
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "Baisse de la TVA sur l'énergie et les carburants",
+          "description": "Réduction de la TVA de 20 % à 5,5 % sur l'électricité, le gaz, le fioul et les carburants. Cette mesure phare vise à alléger directement la facture des ménages français, notamment les plus modestes et les habitants des zones rurales dépendants de la voiture.",
+          "impact": "high"
+        },
+        {
+          "title": "Exonération de cotisations pour hausses de salaires",
+          "description": "Permettre aux entreprises d'augmenter les salaires de 10 % jusqu'à trois fois le SMIC, en les exonérant de l'augmentation des cotisations patronales pendant 3 à 5 ans. Objectif : inciter fortement à la revalorisation salariale sans alourdir le coût du travail.",
+          "impact": "high"
+        },
+        {
+          "title": "Suppression de l'impôt sur les successions pour les classes moyennes",
+          "description": "Exonérer les transmissions patrimoniales jusqu'à 300 000 euros par enfant pour les foyers de classe moyenne. Cette mesure vise à faciliter la transmission intergénérationnelle et à soutenir le patrimoine des familles françaises ordinaires.",
+          "impact": "medium"
+        },
+        {
+          "title": "Déficit public sous 3 % du PIB",
+          "description": "Le RN affiche l'objectif de ramener le déficit public sous la barre des 3 % grâce à une réduction de 36 milliards d'euros de dépenses, notamment en supprimant les aides aux étrangers non-contributifs et en rationalisant l'administration. La crédibilité du chiffrage reste toutefois contestée par les économistes.",
+          "impact": "medium"
+        },
+        {
+          "title": "Baisse de l'impôt sur le revenu pour les classes moyennes",
+          "description": "Réduction des impôts pour les tranches intermédiaires afin de redonner du pouvoir d'achat aux actifs. Cette mesure s'inscrit dans une stratégie électorale visant les catégories sociales déclassées ou menacées par l'inflation.",
+          "impact": "medium"
+        },
+        {
+          "title": "Soutien aux PME et TPE nationales",
+          "description": "Allègement des charges administratives et fiscales pour les petites entreprises françaises. Le RN souhaite créer un environnement favorable aux entrepreneurs locaux en réduisant la pression normative et en favorisant les circuits courts.",
+          "impact": "low"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Fin de l'impunité judiciaire – peines planchers",
+          "description": "Rétablissement de peines minimales obligatoires pour les récidivistes et les auteurs de violences contre les forces de l'ordre. Le RN entend rompre avec ce qu'il appelle le 'laxisme judiciaire' en s'assurant que toute condamnation soit effectivement exécutée.",
+          "impact": "high"
+        },
+        {
+          "title": "Doublement des effectifs de police et gendarmerie",
+          "description": "Plan de recrutement massif dans les forces de sécurité intérieure, avec redéploiement des emplois vers les services opérationnels et un plafonnement à 10 % des postes administratifs. Objectif : une présence accrue sur le terrain dans les zones les plus touchées par la délinquance.",
+          "impact": "high"
+        },
+        {
+          "title": "Rétablissement des peines de prison ferme",
+          "description": "Mise fin aux aménagements de peine quasi-automatiques et aux libérations anticipées systématiques. Toute peine prononcée devra être exécutée dans les délais fixés par le juge, afin de rétablir la crédibilité de la justice.",
+          "impact": "high"
+        },
+        {
+          "title": "Tolérance zéro pour les violences policières et anti-policières",
+          "description": "Renforcement des sanctions pour toute agression contre les forces de l'ordre, et défense inconditionnelle de leur présomption de légitime défense. Le RN souhaite également revaloriser le statut et les rémunérations des policiers.",
+          "impact": "medium"
+        },
+        {
+          "title": "Construction de nouvelles places de prison",
+          "description": "Programme d'urgence pour augmenter la capacité carcérale française, jugée insuffisante. L'objectif est de mettre fin à la surpopulation et de permettre l'exécution effective des peines.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Priorité nationale – préférence dans l'accès aux aides",
+          "description": "Réservation des allocations familiales aux Français et conditionnement à 5 années de cotisation en France pour l'accès aux prestations sociales non contributives (RSA, etc.). Cette mesure phare du RN pourrait nécessiter un référendum constitutionnel selon le parti lui-même.",
+          "impact": "high"
+        },
+        {
+          "title": "Remplacement de l'AME par une Aide d'Urgence Vitale",
+          "description": "Suppression de l'Aide Médicale d'État et remplacement par une aide strictement limitée aux soins vitaux d'urgence. Objectif affiché : réduire l'attractivité du système français pour les immigrés clandestins.",
+          "impact": "high"
+        },
+        {
+          "title": "Suspension des régularisations de clandestins",
+          "description": "Circulaire ministérielle interdisant aux préfets toute régularisation de clandestins. Le RN souhaite stopper ce qu'il considère comme une 'régularisation au compte-gouttes' contraire à la maîtrise des flux migratoires.",
+          "impact": "high"
+        },
+        {
+          "title": "Durcissement du regroupement familial",
+          "description": "Restriction sévère des conditions d'accès au regroupement familial : emploi stable, ressources précisément définies, logement conforme et maîtrise de la langue française. Le RN veut diviser par deux les flux légaux.",
+          "impact": "medium"
+        },
+        {
+          "title": "Dépôt des demandes d'asile en ambassades et consulats",
+          "description": "Obligation de déposer les demandes d'asile depuis le pays d'origine, dans les représentations diplomatiques françaises, avant d'entrer sur le territoire. Cette mesure vise à traiter les dossiers 'à la source' sans entrée irrégulière.",
+          "impact": "medium"
+        },
+        {
+          "title": "Sanctions renforcées pour emploi de travailleurs clandestins",
+          "description": "Durcissement des peines pour les employeurs qui recrutent des travailleurs en situation irrégulière, avec inscription sur un registre public des entreprises condamnées. Objectif : tarir les incitations économiques à l'immigration illégale.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Suppression des Agences Régionales de Santé (ARS)",
+          "description": "Démantèlement des ARS jugées bureaucratiques et inefficaces, au profit d'une gestion plus directe par les élus locaux et les professionnels de santé. Les économies réalisées seraient réinvesties dans les soins de proximité.",
+          "impact": "high"
+        },
+        {
+          "title": "Fin du numerus apertus – augmentation des étudiants en médecine",
+          "description": "Levée des restrictions sur le nombre d'étudiants admis en médecine pour lutter contre les déserts médicaux. Cette mesure vise à former plus de médecins généralistes et spécialistes dans les zones sous-dotées.",
+          "impact": "high"
+        },
+        {
+          "title": "Plan d'autonomie stratégique pour les médicaments",
+          "description": "Relocalisation de la production de médicaments essentiels sur le territoire français ou européen. L'objectif est de réduire la dépendance aux fournisseurs asiatiques, révélée comme dangereuse lors de la crise du COVID.",
+          "impact": "medium"
+        },
+        {
+          "title": "Rétablissement de l'autorité et de la discipline à l'école",
+          "description": "Retour à des programmes exigeants, valorisant les savoirs fondamentaux (lecture, calcul, histoire de France). Le RN veut mettre fin aux expérimentations pédagogiques jugées responsables de la baisse du niveau scolaire.",
+          "impact": "medium"
+        },
+        {
+          "title": "Retraite à 60 ans pour les métiers pénibles",
+          "description": "Aménagement du système de retraite pour permettre un départ anticipé à 60 ans pour les travailleurs exerçant des métiers physiquement éprouvants. Le RN s'oppose à l'allongement de la durée de cotisation des travailleurs manuels.",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Souveraineté énergétique – relance du nucléaire",
+          "description": "Soutien au programme de construction de nouveaux réacteurs nucléaires (EPR2) et prolongation de la durée de vie du parc existant. Le RN considère le nucléaire comme indispensable à l'indépendance énergétique et à la maîtrise des prix.",
+          "impact": "high"
+        },
+        {
+          "title": "Abandon du Green Deal européen contraignant",
+          "description": "Refus des normes européennes jugées trop pénalisantes pour l'industrie et les agriculteurs français, notamment sur les pesticides et l'élevage. Le RN veut renégocier les engagements climatiques au niveau européen.",
+          "impact": "medium"
+        },
+        {
+          "title": "Défense des agriculteurs face aux normes écologiques",
+          "description": "Moratoire sur les nouvelles réglementations environnementales imposées à l'agriculture, considérées comme menaçant la compétitivité des exploitations françaises. Le RN soutient un modèle agricole souverain et productif.",
+          "impact": "medium"
+        },
+        {
+          "title": "Fin des éoliennes terrestres",
+          "description": "Moratoire sur la construction de nouvelles éoliennes terrestres, jugées inefficaces et nuisibles au paysage. Le RN s'oppose au développement éolien massif et préfère concentrer les investissements sur le nucléaire et les barrages hydrauliques.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Priorité à la coopération intergouvernementale sur le fédéralisme",
+          "description": "Le RN s'oppose à tout transfert supplémentaire de souveraineté vers les institutions européennes et défend une Europe des nations souveraines et coopérantes. Il souhaite réformer Schengen pour le réserver aux ressortissants européens.",
+          "impact": "high"
+        },
+        {
+          "title": "Renégociation des traités européens",
+          "description": "Remise à plat des règles budgétaires (critères de Maastricht) et des directives jugées contraires à l'intérêt national. Le RN veut un droit de veto national sur les décisions supranationales.",
+          "impact": "medium"
+        },
+        {
+          "title": "Politique étrangère souverainiste et équilibrée",
+          "description": "Défense d'une France indépendante dans ses alliances internationales, sans alignement automatique sur Washington ou Bruxelles. Le RN soutient une approche réaliste dans le conflit ukrainien tout en condamnant l'agression russe.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Référendum d'initiative citoyenne (RIC)",
+          "description": "Introduction d'un mécanisme permettant aux citoyens de proposer et voter des lois ou réformes constitutionnelles sans passer par le Parlement. Mesure démocratique phare destinée à court-circuiter les élites politiques perçues comme déconnectées.",
+          "impact": "high"
+        },
+        {
+          "title": "Indépendance des médias publics",
+          "description": "Réforme de l'audiovisuel public pour garantir son pluralisme et son indépendance vis-à-vis du gouvernement. Le RN dénonce une 'pensée unique médiatique' et veut une gouvernance plus transparente des chaînes publiques.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

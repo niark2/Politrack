@@ -1,0 +1,220 @@
+{
+    "lastUpdate": "21/02/2026",
+    "polls": [
+        {
+            "institute": "IFOP",
+            "date": "18 Février 2026",
+            "sampleSize": "1005 personnes",
+            "commissioner": "LCI / Le Figaro",
+            "results": [
+                {
+                    "fullName": "Jordan Bardella",
+                    "score": 34.0,
+                    "color": "#800080"
+                },
+                {
+                    "fullName": "Gabriel Attal",
+                    "score": 18.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Édouard Philippe",
+                    "score": 16.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Jean-Luc Mélenchon",
+                    "score": 12.0,
+                    "color": "#cc2443"
+                },
+                {
+                    "fullName": "Marine Tondelier",
+                    "score": 7.0,
+                    "color": "#00b25d"
+                },
+                {
+                    "fullName": "Olivier Faure",
+                    "score": 6.0,
+                    "color": "#e61973"
+                },
+                {
+                    "fullName": "Bruno Retailleau",
+                    "score": 7.0,
+                    "color": "#3b82f6"
+                }
+            ]
+        },
+        {
+            "institute": "IPSOS",
+            "date": "14 Février 2026",
+            "sampleSize": "1020 personnes",
+            "commissioner": "France Télévisions",
+            "results": [
+                {
+                    "fullName": "Jordan Bardella",
+                    "score": 35.0,
+                    "color": "#800080"
+                },
+                {
+                    "fullName": "Édouard Philippe",
+                    "score": 17.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Gabriel Attal",
+                    "score": 15.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Jean-Luc Mélenchon",
+                    "score": 11.0,
+                    "color": "#cc2443"
+                },
+                {
+                    "fullName": "Marine Tondelier",
+                    "score": 8.0,
+                    "color": "#00b25d"
+                },
+                {
+                    "fullName": "Olivier Faure",
+                    "score": 6.0,
+                    "color": "#e61973"
+                },
+                {
+                    "fullName": "Laurent Wauquiez",
+                    "score": 8.0,
+                    "color": "#3b82f6"
+                }
+            ]
+        },
+        {
+            "institute": "ELABE",
+            "date": "10 Février 2026",
+            "sampleSize": "1002 personnes",
+            "commissioner": "BFMTV",
+            "results": [
+                {
+                    "fullName": "Jordan Bardella",
+                    "score": 33.0,
+                    "color": "#800080"
+                },
+                {
+                    "fullName": "Gabriel Attal",
+                    "score": 19.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Édouard Philippe",
+                    "score": 15.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Jean-Luc Mélenchon",
+                    "score": 13.0,
+                    "color": "#cc2443"
+                },
+                {
+                    "fullName": "Marine Tondelier",
+                    "score": 7.0,
+                    "color": "#00b25d"
+                },
+                {
+                    "fullName": "Olivier Faure",
+                    "score": 5.0,
+                    "color": "#e61973"
+                },
+                {
+                    "fullName": "Laurent Wauquiez",
+                    "score": 8.0,
+                    "color": "#3b82f6"
+                }
+            ]
+        },
+        {
+            "institute": "Cluster17",
+            "date": "05 Février 2026",
+            "sampleSize": "1011 personnes",
+            "commissioner": "Le Point",
+            "results": [
+                {
+                    "fullName": "Jordan Bardella",
+                    "score": 36.0,
+                    "color": "#800080"
+                },
+                {
+                    "fullName": "Édouard Philippe",
+                    "score": 16.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Gabriel Attal",
+                    "score": 14.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Jean-Luc Mélenchon",
+                    "score": 12.0,
+                    "color": "#cc2443"
+                },
+                {
+                    "fullName": "Marine Tondelier",
+                    "score": 8.0,
+                    "color": "#00b25d"
+                },
+                {
+                    "fullName": "Olivier Faure",
+                    "score": 6.0,
+                    "color": "#e61973"
+                },
+                {
+                    "fullName": "Bruno Retailleau",
+                    "score": 8.0,
+                    "color": "#3b82f6"
+                }
+            ]
+        },
+        {
+            "institute": "OpinionWay",
+            "date": "01 Février 2026",
+            "sampleSize": "1000 personnes",
+            "commissioner": "CNews",
+            "results": [
+                {
+                    "fullName": "Jordan Bardella",
+                    "score": 34.0,
+                    "color": "#800080"
+                },
+                {
+                    "fullName": "Gabriel Attal",
+                    "score": 17.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Édouard Philippe",
+                    "score": 16.0,
+                    "color": "#1e40af"
+                },
+                {
+                    "fullName": "Jean-Luc Mélenchon",
+                    "score": 13.0,
+                    "color": "#cc2443"
+                },
+                {
+                    "fullName": "Marine Tondelier",
+                    "score": 7.0,
+                    "color": "#00b25d"
+                },
+                {
+                    "fullName": "Olivier Faure",
+                    "score": 5.0,
+                    "color": "#e61973"
+                },
+                {
+                    "fullName": "Laurent Wauquiez",
+                    "score": 8.0,
+                    "color": "#3b82f6"
+                }
+            ]
+        }
+    ]
+}

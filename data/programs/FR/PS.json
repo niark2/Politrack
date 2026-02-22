@@ -1,0 +1,165 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "PS",
+  "partyName": "Parti Socialiste",
+  "color": "#FF8EB2",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_del_PS.png",
+  "description": "Le Parti Socialiste, dirigé par Boris Vallaud, se positionne comme une gauche de gouvernement réformiste, à mi-chemin entre LFI et le centre. Son projet articule justice sociale, transition écologique et construction européenne. Le PS préconise une rupture avec la politique macroniste tout en refusant les ruptures institutionnelles radicales de LFI. Économiquement, il défend une fiscalité progressive, la suspension de la réforme des retraites et un investissement public dans la transition écologique.",
+  "categories": [
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "Augmentation du SMIC de 15 % (+200€ nets)",
+          "description": "Hausse immédiate du SMIC à hauteur de 200 euros nets supplémentaires par mois, accompagnée de négociations dans les branches pour revaloriser les grilles de salaires. Objectif : faire en sorte que le travail paie et réduire les inégalités.",
+          "impact": "high"
+        },
+        {
+          "title": "Baisse ciblée de la CSG pour les bas salaires",
+          "description": "Réduction de la Contribution Sociale Généralisée (CSG) pour les salaires compris entre 1 et 1,4 SMIC. Mesure de soutien au pouvoir d'achat ciblée sur les travailleurs modestes, sans creuser le déficit des comptes sociaux.",
+          "impact": "high"
+        },
+        {
+          "title": "Plan de relance pour la transition écologique (10 Md€)",
+          "description": "Investissement de 10 milliards d'euros dans un plan de relance orienté vers la souveraineté industrielle et la transition verte. Le PS entend financer ce plan par une fiscalité plus juste sur les grandes entreprises.",
+          "impact": "high"
+        },
+        {
+          "title": "Réduction des aides aux grandes entreprises",
+          "description": "Audit et suppression des aides publiques aux grandes entreprises qui ne créent pas d'emplois ou n'investissent pas en France. Économie estimée à 14 milliards d'euros pour financer les priorités sociales.",
+          "impact": "medium"
+        },
+        {
+          "title": "Taxe sur les hauts patrimoines",
+          "description": "Création d'une contribution exceptionnelle sur les patrimoines supérieurs à 10 millions d'euros pour financer les politiques sociales et la transition écologique. Le PS s'inspire du projet de taxe mondiale sur les milliardaires.",
+          "impact": "medium"
+        },
+        {
+          "title": "Relance du logement social (150 000 logements/an)",
+          "description": "Construction de 150 000 logements sociaux par an, dont un tiers 'très sociaux', avec des sanctions pour les communes ne respectant pas le quota de 25 % (loi SRU). Objectif : résoudre la crise du logement et l'hébergement d'urgence.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Suspension de la réforme des retraites – retour à 62 ans",
+          "description": "Suspension immédiate de la réforme portant l'âge de départ à 64 ans et ouverture de négociations avec les partenaires sociaux pour revenir à 62 ans. Le PS veut un système financé équitablement, notamment par les cotisations des grandes entreprises.",
+          "impact": "high"
+        },
+        {
+          "title": "Minimum jeunesse universel",
+          "description": "Création d'un minimum de revenus pour les jeunes de 18 à 25 ans, sans conditions de ressources parentales. Montant et modalités à définir avec les partenaires sociaux, mais l'objectif est l'autonomisation financière de la jeunesse.",
+          "impact": "high"
+        },
+        {
+          "title": "Minimum vieillesse à 1 000 € par mois",
+          "description": "Revalorisation du minimum vieillesse (ASPA) à 1 000 euros mensuels pour garantir une retraite digne aux personnes âgées disposant de faibles ressources. Mesure de justice sociale immédiatement applicable.",
+          "impact": "high"
+        },
+        {
+          "title": "Investissement dans l'hôpital public",
+          "description": "Plan pluriannuel de financement de l'hôpital public, avec revalorisation des salaires des soignants et fin des fermetures de services. Le PS s'oppose aux politiques d'optimisation budgétaire qui ont fragilisé le système de santé.",
+          "impact": "high"
+        },
+        {
+          "title": "Rétablissement de la carte scolaire réformée",
+          "description": "Réforme de la carte scolaire pour garantir une meilleure mixité sociale dans les établissements. Le PS veut lutter contre la ghettoïsation scolaire qui reproduit et aggrave les inégalités.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Justice écologique et sociale",
+          "description": "Le PS défend une transition écologique qui ne laisse personne de côté, avec des mesures compensatrices pour les ménages modestes. Il s'oppose aux 'éco-taxes injustes' qui pèsent davantage sur les pauvres que sur les riches.",
+          "impact": "high"
+        },
+        {
+          "title": "Rénovation thermique comme priorité nationale",
+          "description": "Programme ambitieux de rénovation des logements énergivores (passoires thermiques), avec une aide renforcée pour les propriétaires modestes et les locataires. Objectif : 500 000 rénovations globales par an d'ici 2027.",
+          "impact": "medium"
+        },
+        {
+          "title": "Mix énergétique équilibré – nucléaire et ENR",
+          "description": "Le PS accepte le maintien du nucléaire existant tout en investissant massivement dans les énergies renouvelables. Il défend un mix diversifié pour garantir la sécurité d'approvisionnement et la décarbonation.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Police de proximité dans les quartiers",
+          "description": "Rétablissement d'une police de proximité dans les quartiers populaires, avec des policiers affectés durablement à un territoire et formés au dialogue. Le PS veut rétablir la confiance entre habitants et forces de l'ordre.",
+          "impact": "high"
+        },
+        {
+          "title": "Plan de prévention de la délinquance",
+          "description": "Investissement dans les politiques de prévention : maisons de la jeunesse, éducateurs spécialisés, sport et culture en quartier prioritaire. Le PS considère que la sécurité commence par la prévention sociale.",
+          "impact": "medium"
+        },
+        {
+          "title": "Réforme de l'IGPN",
+          "description": "Réforme de l'Inspection générale de la police nationale pour renforcer son indépendance dans le traitement des violences policières. Le PS veut un mécanisme de contrôle réellement indépendant.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Politique migratoire humaniste et maîtrisée",
+          "description": "Le PS défend une politique d'immigration légale régulée, respectueuse des droits fondamentaux, avec des voies légales pour les travailleurs et les familles. Il rejette les politiques répressives qui ne réduisent pas les flux illégaux.",
+          "impact": "medium"
+        },
+        {
+          "title": "Droit d'asile renforcé et procédures accélérées",
+          "description": "Garantie du droit d'asile pour les personnes persécutées, avec des procédures accélérées pour réduire les délais d'attente inhumains. Le PS veut créer des pôles d'accueil dignes dans toutes les régions.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Europe sociale et fédérale",
+          "description": "Le PS milite pour une Europe dotée d'un SMIC européen, d'une harmonisation fiscale vers le haut et d'une politique sociale commune. Il soutient la construction d'une Europe fédérale avec davantage de démocratie.",
+          "impact": "high"
+        },
+        {
+          "title": "Soutien à l'Ukraine et diplomatie de paix",
+          "description": "Soutien militaire et humanitaire à l'Ukraine tout en appelant à des négociations de paix supervisées par l'ONU. Le PS veut que la France joue un rôle médiateur actif dans le règlement du conflit.",
+          "impact": "medium"
+        },
+        {
+          "title": "Révision du Pacte de Stabilité",
+          "description": "Renégociation des règles budgétaires européennes pour exclure les investissements climatiques et sociaux du calcul du déficit. Le PS veut une 'règle verte' à l'échelle européenne.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Proportionnelle à l'Assemblée nationale",
+          "description": "Introduction d'une dose de représentation proportionnelle dans les élections législatives pour mieux refléter les votes des Français. Le PS soutient cette réforme depuis plusieurs décennies.",
+          "impact": "medium"
+        },
+        {
+          "title": "Renforcement du contrôle parlementaire",
+          "description": "Réforme de la Constitution pour donner plus de pouvoirs au Parlement face à l'exécutif : suppression du 49.3, délais de vote garantis, droit d'enquête renforcé. Le PS veut rééquilibrer les institutions de la Ve République.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

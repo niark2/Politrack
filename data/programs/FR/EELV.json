@@ -1,0 +1,155 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "EELV",
+  "partyName": "Les Écologistes (EELV)",
+  "color": "#0EA64B",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/6/69/Logo-e-e-l-v.svg",
+  "description": "Les Écologistes (ex-EELV) défendent une écologie à la fois sociale, féministe et décoloniale. Leur projet de société vise une bifurcation post-croissante de l'économie, articulée autour de la neutralité carbone à 2040, des énergies 100 % renouvelables et d'une sécurité sociale écologique. Le parti milite pour une démocratie plus participative, la reconnaissance des droits de la nature et le crime d'écocide. Une nouvelle plateforme programmatique est en consultation depuis décembre 2025 pour préparer l'échéance présidentielle de 2027.",
+  "categories": [
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Neutralité carbone à 2040",
+          "description": "Objectif de neutralité carbone en 2040 (10 ans avant les engagements actuels), basé sur une trajectoire scientifique incluant sobriété, renouvelables et réduction drastique des émissions industrielles. EELV considère que les objectifs 2050 sont insuffisants face à l'urgence climatique.",
+          "impact": "high"
+        },
+        {
+          "title": "100 % énergies renouvelables en 2040",
+          "description": "Atteindre 100 % de la production électrique via les renouvelables (éolien, solaire, géothermie, hydraulique) d'ici 2040, en sortant progressivement du nucléaire. Les ENR seraient développées région par région selon les potentiels naturels locaux.",
+          "impact": "high"
+        },
+        {
+          "title": "Interdiction des vols intra-européens avec alternatives ferroviaires",
+          "description": "Bannir les liaisons aériennes intra-européennes lorsqu'une alternative en train de moins de 4h30 existe. Cette mesure permettrait de réduire significativement les émissions du transport aérien, particulièrement polluant par passager-kilomètre.",
+          "impact": "high"
+        },
+        {
+          "title": "Réduction des émissions de 70 % en 2030",
+          "description": "Objectif de réduction des gaz à effet de serre de 70 % d'ici 2030 par rapport à 1990, bien au-delà des objectifs européens de 55 %. EELV propose un plan sectoriel détaillé pour chaque domaine d'activité.",
+          "impact": "high"
+        },
+        {
+          "title": "Crime d'écocide et droits de la nature",
+          "description": "Introduction du crime d'écocide dans le droit pénal français et international, avec des peines pour les entreprises et individus responsables de destructions environnementales graves. Reconnaissance juridique des droits de la nature.",
+          "impact": "medium"
+        },
+        {
+          "title": "Agriculture biologique et agroécologie",
+          "description": "Objectif de 30 % de surfaces cultivées en bio et 70 % en agriculture durable d'ici 2030, avec un moratoire sur les OGM en plein champ. Soutien à la conversion des exploitations via des aides publiques massives.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Sécurité sociale écologique",
+          "description": "Création d'une branche 'environnement' dans la Sécurité sociale pour financer la transition et protéger les plus vulnérables face aux conséquences du dérèglement climatique (canicules, inondations, pollution de l'air). Ce modèle est inspiré de la convention citoyenne sur le climat.",
+          "impact": "high"
+        },
+        {
+          "title": "Jeunesse comme priorité des politiques publiques",
+          "description": "Plan d'investissement massif dans la jeunesse : éducation à l'environnement obligatoire, aide à l'autonomie des 18-25 ans, garantie d'un emploi ou d'une formation pour tous les jeunes. EELV veut préparer la génération qui héritera d'un monde bouleversé.",
+          "impact": "high"
+        },
+        {
+          "title": "Alimentation saine et locale dans les cantines",
+          "description": "Généralisation des menus 100 % bio et locaux dans les cantines scolaires et hospitalières. Cette mesure combine santé publique, soutien à l'agriculture locale et réduction des émissions liées au transport alimentaire.",
+          "impact": "medium"
+        },
+        {
+          "title": "Rénovation thermique solidaire",
+          "description": "Programme prioritaire de rénovation des logements des ménages les plus modestes, financé par une contribution des plus riches et des entreprises polluantes. Objectif : fin des passoires thermiques d'ici 2030.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "Post-croissance et économie du bien commun",
+          "description": "EELV prône une économie qui vise le bien-être humain et la santé des écosystèmes plutôt que la croissance du PIB. Cela implique une réduction du temps de travail, le développement des circuits courts et de l'économie sociale et solidaire.",
+          "impact": "high"
+        },
+        {
+          "title": "Revenu universel de base",
+          "description": "Instauration d'un revenu universel inconditionnel pour tous les adultes, remplaçant progressivement les minima sociaux fragmentés. Objectif : garantir la sécurité économique de chacun et libérer le temps pour les activités non marchandes.",
+          "impact": "medium"
+        },
+        {
+          "title": "Taxe carbone juste et redistributive",
+          "description": "Instauration d'une taxe carbone progressive dont les recettes seraient intégralement redistribuées aux ménages sous forme d'un 'chèque vert' universel. Les ménages modestes bénéficieraient d'un solde positif par rapport à leur contribution.",
+          "impact": "medium"
+        },
+        {
+          "title": "Banque centrale au service de la transition",
+          "description": "Pression pour que la Banque Centrale Européenne intègre des critères climatiques dans sa politique monétaire, finançant prioritairement les projets verts. EELV soutient une réforme des statuts de la BCE.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Justice climatique – responsabilité des entreprises polluantes",
+          "description": "Création de mécanismes juridiques permettant aux victimes du dérèglement climatique de poursuivre les entreprises qui ont sciemment contribué aux émissions. EELV soutient les procès climatiques en France et à l'international.",
+          "impact": "high"
+        },
+        {
+          "title": "Démocratie et sécurité de proximité",
+          "description": "Police de proximité formée aux droits humains et au dialogue interculturel. EELV refuse les politiques sécuritaires répressives et privilégie la prévention, l'éducation et les politiques sociales comme leviers de sécurité.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Europe fédérale verte",
+          "description": "Construction d'une Europe plus intégrée avec un pilier écologique fort : Green Deal renforcé, taxe carbone aux frontières, fonds de transition juste. EELV est le parti le plus pro-européen du spectre politique français.",
+          "impact": "high"
+        },
+        {
+          "title": "Solidarité internationale face au changement climatique",
+          "description": "Doublement de l'aide publique au développement et contribution équitable de la France au Fonds Vert pour le Climat. EELV soutient la justice climatique internationale et la transition des pays du Sud.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Réfugiés climatiques – statut juridique reconnu",
+          "description": "Création d'un statut international de réfugié climatique, permettant à toute personne déplacée par les conséquences du changement climatique de demander l'asile. EELV pousse pour une reconnaissance de ce statut à l'ONU.",
+          "impact": "high"
+        },
+        {
+          "title": "Politique d'accueil digne et humaniste",
+          "description": "Accueil digne des demandeurs d'asile avec garantie de l'hébergement, de l'accès aux soins et de la scolarisation des enfants. EELV refuse les centres de rétention pour les mineurs et les familles.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Démocratie participative et citoyenne",
+          "description": "Développement massif des conventions citoyennes, du référendum d'initiative citoyenne et de la démocratie locale participative. EELV veut que les citoyens soient co-décideurs des grandes politiques publiques.",
+          "impact": "medium"
+        },
+        {
+          "title": "Parité et féminisme dans les institutions",
+          "description": "Parité stricte dans tous les exécutifs, avec des mécanismes contraignants et des sanctions financières pour les partis qui ne respectent pas l'égalité femmes-hommes. EELV est un des partis les plus féministes de France.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+[
+{
+"cityName": "Paris",
+"region": "Île-de-France",
+"lat": 48.8566,
+"lng": 2.3522,
+"favorite": "Rachida Dati (Majorité - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 37.5, "color": "#0066cc" },
+{ "label": "PS-Front Populaire", "value": 36, "color": "#ec008c" },
+{ "label": "EELV", "value": 11, "color": "#24b22c" },
+{ "label": "LFI-NFP", "value": 7, "color": "#c80000" },
+{ "label": "RN", "value": 6, "color": "#000032" },
+{ "label": "Divers", "value": 2.5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Marseille",
+"region": "Provence-Alpes-Côte d'Azur",
+"lat": 43.2965,
+"lng": 5.3698,
+"favorite": "Benoît Payan (Gauche - DVG/NFP)",
+"scores": [
+{ "label": "Gauche-NFP (Payan)", "value": 31, "color": "#ec008c" },
+{ "label": "RN (Allisio)", "value": 30, "color": "#000032" },
+{ "label": "Droite-Centre (Vassal)", "value": 23, "color": "#0066cc" },
+{ "label": "LFI", "value": 7, "color": "#c80000" },
+{ "label": "Divers", "value": 9, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Lyon",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.7640,
+"lng": 4.8357,
+"favorite": "Jean-Michel Aulas (Droite-Centre - LR/Renaissance)",
+"scores": [
+{ "label": "Droite-Centre (Aulas)", "value": 47, "color": "#0066cc" },
+{ "label": "EELV-PS-PCF", "value": 30, "color": "#24b22c" },
+{ "label": "LFI", "value": 8, "color": "#c80000" },
+{ "label": "RN", "value": 8, "color": "#000032" },
+{ "label": "Divers centre-gauche", "value": 7, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Toulouse",
+"region": "Occitanie",
+"lat": 43.6047,
+"lng": 1.4442,
+"favorite": "Maire sortant (Droite-Centre)",
+"scores": [
+{ "label": "Droite-Centre", "value": 38, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 30, "color": "#ec008c" },
+{ "label": "EELV", "value": 10, "color": "#24b22c" },
+{ "label": "LFI", "value": 8, "color": "#c80000" },
+{ "label": "RN", "value": 11, "color": "#000032" },
+{ "label": "Divers", "value": 3, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Nice",
+"region": "Provence-Alpes-Côte d'Azur",
+"lat": 43.7102,
+"lng": 7.2620,
+"favorite": "Maire sortant (Droite - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 42, "color": "#0066cc" },
+{ "label": "RN", "value": 24, "color": "#000032" },
+{ "label": "PS-NFP", "value": 18, "color": "#ec008c" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 4, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Nantes",
+"region": "Pays de la Loire",
+"lat": 47.2184,
+"lng": -1.5536,
+"favorite": "Maire sortante (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 39, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 28, "color": "#0066cc" },
+{ "label": "EELV", "value": 13, "color": "#24b22c" },
+{ "label": "LFI", "value": 8, "color": "#c80000" },
+{ "label": "RN", "value": 9, "color": "#000032" },
+{ "label": "Divers", "value": 3, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Montpellier",
+"region": "Occitanie",
+"lat": 43.6108,
+"lng": 3.8767,
+"favorite": "Maire sortant (PS/DVG-NFP)",
+"scores": [
+{ "label": "PS-DVG-NFP", "value": 36, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 25, "color": "#0066cc" },
+{ "label": "EELV", "value": 12, "color": "#24b22c" },
+{ "label": "LFI", "value": 10, "color": "#c80000" },
+{ "label": "RN", "value": 14, "color": "#000032" },
+{ "label": "Divers", "value": 3, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Strasbourg",
+"region": "Grand Est",
+"lat": 48.5734,
+"lng": 7.7521,
+"favorite": "Maire sortante (EELV)",
+"scores": [
+{ "label": "EELV-Alliance gauche", "value": 32, "color": "#24b22c" },
+{ "label": "PS-NFP", "value": 18, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 28, "color": "#0066cc" },
+{ "label": "RN", "value": 14, "color": "#000032" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 3, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Bordeaux",
+"region": "Nouvelle-Aquitaine",
+"lat": 44.8378,
+"lng": -0.5792,
+"favorite": "Maire sortant (EELV-centriste)",
+"scores": [
+{ "label": "EELV-Alliance centre-gauche", "value": 31, "color": "#24b22c" },
+{ "label": "Droite-Centre", "value": 30, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 18, "color": "#ec008c" },
+{ "label": "RN", "value": 11, "color": "#000032" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 4, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Lille",
+"region": "Hauts-de-France",
+"lat": 50.6292,
+"lng": 3.0573,
+"favorite": "Maire sortante (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 38, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 25, "color": "#0066cc" },
+{ "label": "EELV", "value": 15, "color": "#24b22c" },
+{ "label": "LFI", "value": 7, "color": "#c80000" },
+{ "label": "RN", "value": 11, "color": "#000032" },
+{ "label": "Divers", "value": 4, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Rennes",
+"region": "Bretagne",
+"lat": 48.1173,
+"lng": -1.6778,
+"favorite": "Maire sortante (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 40, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 24, "color": "#0066cc" },
+{ "label": "EELV", "value": 14, "color": "#24b22c" },
+{ "label": "LFI", "value": 7, "color": "#c80000" },
+{ "label": "RN", "value": 10, "color": "#000032" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Reims",
+"region": "Grand Est",
+"lat": 49.2583,
+"lng": 4.0317,
+"favorite": "Maire sortant (Droite - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 41, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 22, "color": "#ec008c" },
+{ "label": "RN", "value": 20, "color": "#000032" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Saint-Étienne",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.4397,
+"lng": 4.3872,
+"favorite": "Maire sortant (Droite - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 37, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 24, "color": "#ec008c" },
+{ "label": "RN", "value": 21, "color": "#000032" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Le Havre",
+"region": "Normandie",
+"lat": 49.4944,
+"lng": 0.1079,
+"favorite": "Maire sortant (Droite-Centre)",
+"scores": [
+{ "label": "Droite-Centre", "value": 43, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 23, "color": "#ec008c" },
+{ "label": "RN", "value": 17, "color": "#000032" },
+{ "label": "EELV", "value": 6, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Toulon",
+"region": "Provence-Alpes-Côte d'Azur",
+"lat": 43.1242,
+"lng": 5.9280,
+"favorite": "Maire sortant (Droite - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 44, "color": "#0066cc" },
+{ "label": "RN", "value": 23, "color": "#000032" },
+{ "label": "PS-NFP", "value": 16, "color": "#ec008c" },
+{ "label": "EELV", "value": 6, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 6, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Grenoble",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.1885,
+"lng": 5.7245,
+"favorite": "Maire sortant (EELV)",
+"scores": [
+{ "label": "EELV-Alliance gauche", "value": 35, "color": "#24b22c" },
+{ "label": "PS-NFP", "value": 15, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 25, "color": "#0066cc" },
+{ "label": "LFI", "value": 8, "color": "#c80000" },
+{ "label": "RN", "value": 12, "color": "#000032" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Dijon",
+"region": "Bourgogne-Franche-Comté",
+"lat": 47.3220,
+"lng": 5.0415,
+"favorite": "Maire sortant (PS)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 39, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 27, "color": "#0066cc" },
+{ "label": "RN", "value": 16, "color": "#000032" },
+{ "label": "EELV", "value": 8, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Angers",
+"region": "Pays de la Loire",
+"lat": 47.4784,
+"lng": -0.5632,
+"favorite": "Maire sortant (Centre-Droite)",
+"scores": [
+{ "label": "Centre-Droite", "value": 40, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 28, "color": "#ec008c" },
+{ "label": "EELV", "value": 10, "color": "#24b22c" },
+{ "label": "RN", "value": 12, "color": "#000032" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Nîmes",
+"region": "Occitanie",
+"lat": 43.8367,
+"lng": 4.3601,
+"favorite": "Maire sortant (Droite)",
+"scores": [
+{ "label": "Droite", "value": 39, "color": "#0066cc" },
+{ "label": "RN", "value": 26, "color": "#000032" },
+{ "label": "PS-NFP", "value": 18, "color": "#ec008c" },
+{ "label": "EELV", "value": 6, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Villeurbanne",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.7640,
+"lng": 4.8799,
+"favorite": "Maire sortant (PS/EELV-NFP)",
+"scores": [
+{ "label": "PS-EELV-NFP", "value": 41, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 24, "color": "#0066cc" },
+{ "label": "RN", "value": 14, "color": "#000032" },
+{ "label": "LFI", "value": 9, "color": "#c80000" },
+{ "label": "Divers", "value": 12, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Clermont-Ferrand",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.7772,
+"lng": 3.0870,
+"favorite": "Maire sortant (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 40, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 26, "color": "#0066cc" },
+{ "label": "EELV", "value": 10, "color": "#24b22c" },
+{ "label": "RN", "value": 13, "color": "#000032" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Le Mans",
+"region": "Pays de la Loire",
+"lat": 48.0061,
+"lng": 0.1996,
+"favorite": "Maire sortant (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 38, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 27, "color": "#0066cc" },
+{ "label": "RN", "value": 16, "color": "#000032" },
+{ "label": "EELV", "value": 8, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Aix-en-Provence",
+"region": "Provence-Alpes-Côte d'Azur",
+"lat": 43.5297,
+"lng": 5.4474,
+"favorite": "Maire sortante (Droite-LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 42, "color": "#0066cc" },
+{ "label": "RN", "value": 21, "color": "#000032" },
+{ "label": "PS-NFP", "value": 18, "color": "#ec008c" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 7, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Brest",
+"region": "Bretagne",
+"lat": 48.3904,
+"lng": -4.4861,
+"favorite": "Maire sortant (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 39, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 26, "color": "#0066cc" },
+{ "label": "RN", "value": 14, "color": "#000032" },
+{ "label": "EELV", "value": 9, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 6, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Tours",
+"region": "Centre-Val de Loire",
+"lat": 47.3941,
+"lng": 0.6848,
+"favorite": "Maire sortant (PS-NFP)",
+"scores": [
+{ "label": "PS-Front Populaire", "value": 37, "color": "#ec008c" },
+{ "label": "Droite-Centre", "value": 27, "color": "#0066cc" },
+{ "label": "RN", "value": 17, "color": "#000032" },
+{ "label": "EELV", "value": 8, "color": "#24b22c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Amiens",
+"region": "Hauts-de-France",
+"lat": 49.8941,
+"lng": 2.2958,
+"favorite": "Maire sortante (Centre-Droite)",
+"scores": [
+{ "label": "Centre-Droite", "value": 38, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 27, "color": "#ec008c" },
+{ "label": "RN", "value": 18, "color": "#000032" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Limoges",
+"region": "Nouvelle-Aquitaine",
+"lat": 45.8336,
+"lng": 1.2611,
+"favorite": "Maire sortant (Droite-Centre)",
+"scores": [
+{ "label": "Droite-Centre", "value": 37, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 30, "color": "#ec008c" },
+{ "label": "RN", "value": 15, "color": "#000032" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 6, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Annecy",
+"region": "Auvergne-Rhône-Alpes",
+"lat": 45.8992,
+"lng": 6.1294,
+"favorite": "Maire sortant (EELV)",
+"scores": [
+{ "label": "EELV-Alliance gauche", "value": 33, "color": "#24b22c" },
+{ "label": "Droite-Centre", "value": 30, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 16, "color": "#ec008c" },
+{ "label": "RN", "value": 11, "color": "#000032" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Perpignan",
+"region": "Occitanie",
+"lat": 42.6887,
+"lng": 2.8948,
+"favorite": "Maire sortant (RN)",
+"scores": [
+{ "label": "RN", "value": 38, "color": "#000032" },
+{ "label": "Droite-Centre", "value": 25, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 20, "color": "#ec008c" },
+{ "label": "LFI", "value": 6, "color": "#c80000" },
+{ "label": "EELV", "value": 5, "color": "#24b22c" },
+{ "label": "Divers", "value": 6, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Boulogne-Billancourt",
+"region": "Île-de-France",
+"lat": 48.8397,
+"lng": 2.2399,
+"favorite": "Maire sortant (Droite - LR)",
+"scores": [
+{ "label": "LR-Majorité", "value": 48, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 20, "color": "#ec008c" },
+{ "label": "EELV", "value": 10, "color": "#24b22c" },
+{ "label": "RN", "value": 11, "color": "#000032" },
+{ "label": "LFI", "value": 4, "color": "#c80000" },
+{ "label": "Divers", "value": 7, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Metz",
+"region": "Grand Est",
+"lat": 49.1193,
+"lng": 6.1757,
+"favorite": "Maire sortant (Centre-Droite)",
+"scores": [
+{ "label": "Centre-Droite", "value": 36, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 28, "color": "#ec008c" },
+{ "label": "RN", "value": 18, "color": "#000032" },
+{ "label": "EELV", "value": 8, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 5, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Besançon",
+"region": "Bourgogne-Franche-Comté",
+"lat": 47.2378,
+"lng": 6.0241,
+"favorite": "Maire sortante (EELV-Gauche)",
+"scores": [
+{ "label": "EELV-PS-NFP", "value": 37, "color": "#24b22c" },
+{ "label": "Droite-Centre", "value": 27, "color": "#0066cc" },
+{ "label": "RN", "value": 15, "color": "#000032" },
+{ "label": "LFI", "value": 7, "color": "#c80000" },
+{ "label": "Divers", "value": 14, "color": "#aaaaaa" }
+]
+},
+{
+"cityName": "Orléans",
+"region": "Centre-Val de Loire",
+"lat": 47.9025,
+"lng": 1.9090,
+"favorite": "Maire sortant (Droite-Centre)",
+"scores": [
+{ "label": "Droite-Centre", "value": 39, "color": "#0066cc" },
+{ "label": "PS-NFP", "value": 26, "color": "#ec008c" },
+{ "label": "RN", "value": 17, "color": "#000032" },
+{ "label": "EELV", "value": 7, "color": "#24b22c" },
+{ "label": "LFI", "value": 5, "color": "#c80000" },
+{ "label": "Divers", "value": 6, "color": "#aaaaaa" }
+]
+}
+]

@@ -1,0 +1,112 @@
+[
+{
+"cityName": "Paris",
+"region": "Île‑de‑France",
+"favorite": "Emmanuel Grégoire (PS‑EELV‑PCF)",
+"scores": [
+{ "label": "PS‑EELV‑PCF (Gauche)", "value": 33, "color": "#ec008c" },
+{ "label": "Les Républicains (Rachida Dati)", "value": 26, "color": "#0066cc" },
+{ "label": "Autres (incl. LFI, Renaissance, RN)", "value": 41, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Lyon",
+"region": "Auvergne‑Rhône‑Alpes",
+"favorite": "Jean‑Michel Aulas (UDI‑LR/Rassemblement large)",
+"scores": [
+{ "label": "UDI‑LR/Alliés (Aulas)", "value": 44, "color": "#0066cc" },
+{ "label": "EELV‑PS (Doucet)", "value": 31, "color": "#24b22c" },
+{ "label": "Autres (LFI, RN‑UDR)", "value": 25, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Marseille",
+"region": "Provence‑Alpes‑Côte d'Azur",
+"favorite": "Benoît Payan (PS‑Gauche)",
+"scores": [
+{ "label": "PS‑Gauche (Payan)", "value": 31, "color": "#ec008c" },
+{ "label": "RN (Allisio)", "value": 29, "color": "#004a77" },
+{ "label": "Autres (LR, LFI)", "value": 40, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Bordeaux",
+"region": "Nouvelle‑Aquitaine",
+"favorite": "Pierre Hurmic (EELV‑PS)",
+"scores": [
+{ "label": "EELV‑PS (Hurmic)", "value": 32, "color": "#24b22c" },
+{ "label": "Renaissance‑Droite (Cazenave)", "value": 26, "color": "#0066cc" },
+{ "label": "Autres (RN, LFI, Divers)", "value": 42, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Lille",
+"region": "Hauts‑de‑France",
+"favorite": "Arnaud Deslandes (PS)",
+"scores": [
+{ "label": "PS (Deslandes)", "value": 27, "color": "#ec008c" },
+{ "label": "Renaissance (Spillebout)", "value": 18, "color": "#ff9900" },
+{ "label": "Autres (EELV, LFI, RN, LR)", "value": 55, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Nantes",
+"region": "Pays de la Loire",
+"favorite": "Johanna Rolland (PS‑Gauche)",
+"scores": [
+{ "label": "PS‑Gauche (Rolland)", "value": 38, "color": "#ec008c" },
+{ "label": "Renaissance‑Droite (Chombart de Lauwe)", "value": 30, "color": "#0066cc" },
+{ "label": "Autres (LFI, RN)", "value": 32, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Strasbourg",
+"region": "Grand Est",
+"favorite": "Catherine Trautmann (PS)",
+"scores": [
+{ "label": "PS (Trautmann)", "value": 31, "color": "#ec008c" },
+{ "label": "EELV (Barseghian)", "value": 22, "color": "#24b22c" },
+{ "label": "Autres (LR, RN, LFI)", "value": 47, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Montpellier",
+"region": "Occitanie",
+"favorite": "Michaël Delafosse (PS)",
+"scores": [
+{ "label": "PS (Delafosse)", "value": 35, "color": "#ec008c" },
+{ "label": "LFI (Oziol)", "value": 16, "color": "#ffeb00" },
+{ "label": "Autres (RN, Divers, EELV)", "value": 49, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Rennes",
+"region": "Bretagne",
+"favorite": "Nathalie Appéré (PS)",
+"scores": [
+{ "label": "PS (Appéré)", "value": 34, "color": "#ec008c" },
+{ "label": "LFI/Autres Gauche", "value": 20, "color": "#ffeb00" },
+{ "label": "Autres (Droite, RN, EELV)", "value": 46, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Toulouse",
+"region": "Occitanie",
+"favorite": "Jean‑Luc Moudenc (LR/centre)",
+"scores": [
+{ "label": "LR‑Centre (Moudenc)", "value": 33, "color": "#0066cc" },
+{ "label": "PS‑Gauche (Briançon)", "value": 30, "color": "#ec008c" },
+{ "label": "Autres (LFI, RN)", "value": 37, "color": "#94a3b8" }
+]
+},
+{
+"cityName": "Nice",
+"region": "Provence‑Alpes‑Côte d'Azur",
+"favorite": "Éric Ciotti (UDR‑RN alliés)",
+"scores": [
+{ "label": "UDR‑RN (Ciotti)", "value": 41, "color": "#004a77" },
+{ "label": "Horizons‑LR (Estrosi)", "value": 31, "color": "#0066cc" },
+{ "label": "Autres (PS, LFI)", "value": 28, "color": "#94a3b8" }
+]
+}
+]

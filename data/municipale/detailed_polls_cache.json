@@ -1,0 +1,60 @@
+{
+"lastUpdate": "22/02/2026",
+"polls": [
+{
+"institute": "Cluster17",
+"date": "19/02/2026",
+"city": "Lyon",
+"sample": "793",
+"results": [
+{ "name": "Jean‑Michel Aulas", "party": "LR/centre", "score": 42, "color": "#0066cc" },
+{ "name": "Grégory Doucet", "party": "EELV", "score": 31, "color": "#24b22c" },
+{ "name": "Autres", "party": "Autres", "score": 27, "color": "#94a3b8" }
+]
+},
+{
+"institute": "Elabe",
+"date": "16/02/2026",
+"city": "Marseille",
+"sample": "800",
+"results": [
+{ "name": "Benoît Payan", "party": "PS/Ecologistes/PCF", "score": 31, "color": "#ec008c" },
+{ "name": "Franck Allisio", "party": "RN/UDR", "score": 29, "color": "#004a77" },
+{ "name": "Martine Vassal", "party": "LR/Centre", "score": 21, "color": "#0066cc" }
+]
+},
+{
+"institute": "OpinionWay",
+"date": "18/11/2025",
+"city": "Bordeaux",
+"sample": "705",
+"results": [
+{ "name": "Pierre Hurmic", "party": "EELV", "score": 32, "color": "#24b22c" },
+{ "name": "Thomas Cazenave", "party": "Renaissance/Centre", "score": 26, "color": "#ff9900" },
+{ "name": "Nordine Raymond", "party": "LFI", "score": 15, "color": "#ffeb00" }
+]
+},
+{
+"institute": "Ifop",
+"date": "18/02/2026",
+"city": "Toulouse",
+"sample": "602",
+"results": [
+{ "name": "Jean‑Luc Moudenc", "party": "LR/Centre", "score": 33, "color": "#0066cc" },
+{ "name": "François Briançon", "party": "PS/Ecologistes", "score": 30, "color": "#ec008c" },
+{ "name": "François Piquemal", "party": "LFI", "score": 23, "color": "#ffeb00" }
+]
+},
+{
+"institute": "Ifop",
+"date": "15/09/2025",
+"city": "Lille",
+"sample": "604",
+"results": [
+{ "name": "Arnaud Deslandes", "party": "PS/PCF", "score": 29, "color": "#ec008c" },
+{ "name": "Stéphane Baly", "party": "EELV", "score": 19, "color": "#24b22c" },
+{ "name": "Violette Spillebout", "party": "Renaissance", "score": 18, "color": "#ff9900" }
+]
+}
+]
+}

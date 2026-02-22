@@ -1,0 +1,19 @@
+Cherche les derniers sondages et projections de SIÈGES par institut (Ipsos, Ifop, Elabe, etc.) pour les élections législatives.
+Détaille les estimations de SIÈGES par bloc pour chaque institut.
+
+FORMAT JSON ATTENDU :
+{
+  "lastUpdate": "DD/MM/YYYY",
+  "polls": [
+    {
+      "institute": "NOM_INSTITUT",
+      "commissioner": "Média/Commanditaire",
+      "date": "Date du sondage",
+      "sampleSize": "Taille de l'échantillon",
+      "note": "Mention spéciale si nécessaire",
+      "results": [
+        { "fullName": "Nom du Bloc", "score": 180, "color": "#HEXCODE" }
+      ]
+    }
+  ]
+}

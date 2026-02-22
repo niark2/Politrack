@@ -1,0 +1,160 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "LR",
+  "partyName": "Les Républicains",
+  "color": "#0066CC",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Les_R%C3%A9publicains_-_logo_%28France%2C_2015-2023%29.svg",
+  "description": "Les Républicains, désormais présidés par Bruno Retailleau (depuis mai 2025), incarnent la droite gaulliste et conservatrice. Leur projet s'articule autour de la valorisation du travail contre l'assistanat, d'une sécurité renforcée avec tolérance zéro, d'un contrôle migratoire strict et d'une réduction de la dépense publique. Économiquement, LR défend la sortie des 35 heures, la baisse des charges et la liberté entrepreneuriale. Sur les valeurs, le parti défend l'identité française, la laïcité et l'indépendance nationale.",
+  "categories": [
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "Sortie des 35 heures et revalorisation du travail",
+          "description": "Suppression de la durée légale du travail à 35 heures pour permettre davantage de flexibilité et mieux rémunérer ceux qui veulent travailler plus. LR prévoit de rendre 30 milliards d'euros aux entreprises et salariés via des réductions de charges.",
+          "impact": "high"
+        },
+        {
+          "title": "Compte social unique – aide sociale plafonnée à 70 % du SMIC",
+          "description": "Création d'un compte social unique regroupant toutes les aides, avec un plafonnement pour éviter que le cumul des allocations dépasse 70 % du SMIC. Objectif : 'décourager l'assistanat' et inciter au retour à l'emploi.",
+          "impact": "high"
+        },
+        {
+          "title": "Réforme de l'assurance chômage",
+          "description": "Durcissement des conditions d'accès à l'assurance chômage et réduction des abus des ruptures conventionnelles. LR veut que le système incite fortement à rechercher et accepter un emploi.",
+          "impact": "medium"
+        },
+        {
+          "title": "Baisse de l'impôt sur les sociétés à 15 % pour les PME/TPE",
+          "description": "Réduction du taux d'IS à 15 % pour les petites et moyennes entreprises afin de libérer leur capacité d'investissement et de recrutement. LR considère que la fiscalité française est un frein majeur à la compétitivité.",
+          "impact": "medium"
+        },
+        {
+          "title": "Favoriser le travail des plus de 60 ans",
+          "description": "Mesures d'incitation au maintien en emploi des seniors de plus de 60 ans (allègements de charges, retraite progressive améliorée). Objectif : augmenter le taux d'emploi des seniors, l'un des plus faibles d'Europe.",
+          "impact": "medium"
+        },
+        {
+          "title": "Réduction drastique de la dépense publique",
+          "description": "Plan d'économies structurelles sur le fonctionnement de l'État, les dépenses de fonctionnement et les 'niches inutiles'. LR veut revenir sous 3 % de déficit d'ici la fin du prochain quinquennat.",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Tolérance zéro – peines minimales pour récidivistes",
+          "description": "Rétablissement de peines planchers automatiques pour les récidivistes et les violences contre les forces de l'ordre. LR (sous Retailleau au ministère de l'Intérieur) a fait de la fermeté sécuritaire sa marque de fabrique.",
+          "impact": "high"
+        },
+        {
+          "title": "Construction de 200 000 nouvelles places de prison",
+          "description": "Vaste programme pénitentiaire pour mettre fin à la surpopulation carcérale et garantir l'exécution effective de toutes les peines. LR considère qu'une peine non exécutée est un message d'impunité.",
+          "impact": "high"
+        },
+        {
+          "title": "Suppression des réductions de peine quasi-automatiques",
+          "description": "Fin des remises de peine automatiques et des libérations anticipées systématiques. Chaque demande d'aménagement de peine devra être examinée individuellement et justifiée par des preuves de réinsertion.",
+          "impact": "medium"
+        },
+        {
+          "title": "Renforcement du budget de la Justice",
+          "description": "Augmentation du budget de la Justice à hauteur de 3 milliards d'euros supplémentaires pour accélérer les procédures, recruter des magistrats et améliorer les conditions dans les tribunaux.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Contrôle strict aux frontières nationales",
+          "description": "Rétablissement permanent de contrôles aux frontières françaises et refus catégorique des personnes sans titre d'entrée valide. LR soutient une révision de Schengen permettant aux États de gérer leurs frontières.",
+          "impact": "high"
+        },
+        {
+          "title": "Expulsions immédiates des étrangers délinquants",
+          "description": "Expulsion systématique de tout étranger condamné pour un crime ou un délit, sans délai ni possibilité de recours suspensif. LR dénonce les 'étrangers délinquants non expulsables' comme une faille dramatique du système juridique.",
+          "impact": "high"
+        },
+        {
+          "title": "Suppression du droit du sol automatique",
+          "description": "Conditionnement de la nationalité française à la naissance aux enfants de parents en situation régulière. LR souhaite mettre fin au droit du sol 'inconditionnel' jugé comme un facteur d'attractivité migratoire.",
+          "impact": "medium"
+        },
+        {
+          "title": "Conditionnalité des aides sociales à la nationalité ou ancienneté",
+          "description": "Réservation de certaines aides sociales aux Français ou aux étrangers justifiant de plusieurs années de résidence légale et cotisation. Objectif : réduire l'effet d'appel des systèmes de protection sociale.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Maintien de la retraite à 64 ans",
+          "description": "LR soutient la réforme portant l'âge légal de départ à 64 ans comme nécessaire à l'équilibre financier du système. Certains membres du parti, dont Retailleau, évoquaient 65 ans avant la réforme de 2023.",
+          "impact": "high"
+        },
+        {
+          "title": "Retour à l'autorité et à l'excellence scolaire",
+          "description": "Restauration de l'autorité dans les établissements scolaires, retour aux méthodes d'apprentissage fondamentales et fin du 'pédagogisme'. LR veut revaloriser les professeurs et rétablir une sélection méritocratique.",
+          "impact": "medium"
+        },
+        {
+          "title": "Lutte contre la désertification médicale",
+          "description": "Mesures incitatives pour l'installation de médecins en zones sous-dotées, sans recours à la coercition. LR s'oppose à l'obligation d'installation mais soutient les incitations financières et la télémédecine.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Nucléaire comme pilier de la transition",
+          "description": "LR défend le nucléaire comme énergie décarbonée par excellence et soutient la construction de nouveaux EPR. Le parti critique les choix passés de fermeture de Fessenheim et l'objectif de 50 % de nucléaire en 2035.",
+          "impact": "high"
+        },
+        {
+          "title": "Écologie des solutions, pas de la décroissance",
+          "description": "LR défend une approche 'pragmatique' de l'écologie basée sur l'innovation technologique (captage CO2, hydrogène) plutôt que sur la réduction de la consommation. Le parti s'oppose aux normes trop contraignantes pour les entreprises.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Europe des nations souveraines",
+          "description": "LR défend une Europe de la coopération intergouvernementale respectant la souveraineté des États, sans fédéralisme. Le parti soutient Schengen réformé et une politique commerciale protectrice.",
+          "impact": "medium"
+        },
+        {
+          "title": "Soutien à l'Ukraine – solidarité occidentale",
+          "description": "LR soutient fermement l'aide militaire et financière à l'Ukraine et l'unité de l'alliance atlantique face à la Russie. Le parti critique toute ambiguïté dans le soutien à Kyiv.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Défense de la Ve République et de ses institutions",
+          "description": "LR s'oppose aux projets de 6e République portés par la gauche et défend le régime présidentiel de la Ve République. Quelques réformes de modernisation (référendum, dose de proportionnelle) sont acceptables mais pas une refondation complète.",
+          "impact": "medium"
+        },
+        {
+          "title": "Laïcité renforcée",
+          "description": "Défense intransigeante de la laïcité dans l'espace public, les services publics et l'école. LR soutient des lois plus strictes sur le port de signes religieux ostentatoires dans les espaces publics.",
+          "impact": "high"
+        }
+      ]
+    }
+  ]
+}

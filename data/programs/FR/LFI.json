@@ -1,0 +1,185 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "LFI",
+  "partyName": "La France Insoumise",
+  "color": "#CC2443",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_La_France_Insoumise.png",
+  "description": "La France Insoumise, menée par Jean-Luc Mélenchon, incarne la gauche radicale et souverainiste. Son programme 'L'Avenir en commun' (831 mesures dans sa version 2025) articule planification écologique, rupture avec le libre-échange, instauration d'une 6e République parlementaire et éradication de la pauvreté. LFI prône une bifurcation économique profonde : sortie de l'austérité, hausse des salaires, encadrement des loyers et taxation des ultra-riches. Sur le plan international, le parti défend une politique de paix et de désobéissance aux règles européennes jugées néolibérales.",
+  "categories": [
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "SMIC à 1 600 € net",
+          "description": "Augmentation immédiate du SMIC à 1 600 euros nets par mois pour sortir les travailleurs de la pauvreté. Cette mesure serait accompagnée d'une revalorisation de l'ensemble des grilles de salaires dans les conventions collectives.",
+          "impact": "high"
+        },
+        {
+          "title": "Blocage des prix des biens de première nécessité",
+          "description": "Blocage temporaire puis encadrement permanent des prix de l'alimentation de base, de l'énergie et des carburants. LFI souhaite créer un 'bouclier de la vie chère' garantissant l'accès aux besoins essentiels indépendamment des marchés.",
+          "impact": "high"
+        },
+        {
+          "title": "Taxation des super-profits et des ultra-riches",
+          "description": "Création d'une taxe exceptionnelle sur les profits anormaux réalisés durant les crises et d'une contribution progressive sur les très hauts patrimoines. LFI chiffre les recettes supplémentaires à plusieurs dizaines de milliards d'euros par an.",
+          "impact": "high"
+        },
+        {
+          "title": "Règle verte – investissements écologiques prioritaires",
+          "description": "Toute nouvelle dépense publique devra démontrer qu'elle ne dégrade pas l'environnement, et les investissements dans la planification écologique seront exemptés des critères budgétaires européens. LFI refuse les critères de Maastricht sur ce point.",
+          "impact": "medium"
+        },
+        {
+          "title": "Protectionnisme solidaire – révision des traités commerciaux",
+          "description": "Sortie ou renégociation des accords de libre-échange (CETA, Mercosur) jugés destructeurs pour l'industrie et l'agriculture françaises. LFI veut un commerce international fondé sur des normes sociales et environnementales minimales.",
+          "impact": "medium"
+        },
+        {
+          "title": "Encadrement strict des loyers",
+          "description": "Extension de l'encadrement des loyers à toutes les agglomérations tendues et plafonnement des loyers à la valeur locative de référence. Objectif : mettre fin à la spéculation immobilière et garantir un logement abordable pour tous.",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Planification écologique – bifurcation en 10 ans",
+          "description": "Programme de transformation de toute l'économie française en 10 ans pour atteindre la neutralité carbone, inspiré du New Deal. LFI prévoit des investissements publics massifs dans les transports, le bâtiment, l'agriculture et l'énergie.",
+          "impact": "high"
+        },
+        {
+          "title": "100 % d'énergies renouvelables d'ici 2050",
+          "description": "Sortie progressive du nucléaire parallèlement au déploiement massif des ENR (éolien, solaire, géothermie, hydraulique). LFI inscrit cette transition dans un plan de création d'emplois non-délocalisables dans les territoires.",
+          "impact": "high"
+        },
+        {
+          "title": "Gratuité des transports en commun",
+          "description": "Extension de la gratuité des transports collectifs à l'ensemble du territoire national, financée par une contribution des plus polluants. Objectif : réduire l'usage de la voiture individuelle et l'empreinte carbone des déplacements.",
+          "impact": "high"
+        },
+        {
+          "title": "Interdiction de la publicité pour les produits polluants",
+          "description": "Bannissement des publicités pour les véhicules thermiques, les voyages en avion long-courrier et les produits à forte empreinte carbone. LFI veut réduire les incitations à la consommation carbonée.",
+          "impact": "medium"
+        },
+        {
+          "title": "Reconversion des travailleurs des industries polluantes",
+          "description": "Plan de formation et de reconversion garanti pour tous les salariés dont l'emploi est menacé par la transition écologique, avec maintien du salaire pendant la période de transition.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Retraite à 60 ans pour tous",
+          "description": "Abaissement de l'âge légal de départ à la retraite à 60 ans, avec une retraite minimum garantie à 1 200 euros. Abrogation immédiate de la réforme à 64 ans jugée injuste et inutile.",
+          "impact": "high"
+        },
+        {
+          "title": "Recrutement massif dans l'hôpital public",
+          "description": "Plan d'urgence pour recruter 100 000 soignants supplémentaires, revaloriser les salaires hospitaliers et mettre fin aux fermetures de lits. LFI veut instaurer un principe constitutionnel d'égal accès aux soins.",
+          "impact": "high"
+        },
+        {
+          "title": "Gratuité totale des soins de santé",
+          "description": "Suppression des franchises médicales, des dépassements d'honoraires et du reste à charge pour les soins courants. LFI souhaite revenir à une Sécurité sociale qui rembourse à 100 % les soins essentiels.",
+          "impact": "high"
+        },
+        {
+          "title": "Augmentation du budget de l'Éducation nationale",
+          "description": "Recrutement massif d'enseignants, revalorisation des salaires, réduction des classes à 25 élèves maximum en primaire. LFI veut faire de l'éducation la première priorité budgétaire de l'État.",
+          "impact": "high"
+        },
+        {
+          "title": "Allocation d'autonomie pour les jeunes",
+          "description": "Création d'une allocation mensuelle universelle pour tous les jeunes de 18 à 25 ans, leur permettant de s'émanciper financièrement. Le montant proposé est de 1 063 euros par mois, soit le seuil de pauvreté.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Abolition de BRAV-M et réforme de la police",
+          "description": "Dissolution des unités de maintien de l'ordre jugées violentes (BRAV-M) et réforme en profondeur de la doctrine du maintien de l'ordre. LFI veut une police de proximité respectueuse des droits, formée aux techniques de désescalade.",
+          "impact": "high"
+        },
+        {
+          "title": "Légalisation du cannabis",
+          "description": "Légalisation encadrée de la production, la vente et la consommation de cannabis, avec monopole d'État. Objectif : tarir les revenus des trafics, financer la prévention et les soins, et décriminaliser des millions d'usagers.",
+          "impact": "medium"
+        },
+        {
+          "title": "Justice restauratrice et réinsertion",
+          "description": "Réorientation de la politique pénale vers la réinsertion et la justice restauratrice, avec davantage de moyens pour les alternatives à l'incarcération. LFI dénonce la surpopulation carcérale comme une violation des droits fondamentaux.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Droit d'asile universel garanti",
+          "description": "Respect absolu du droit d'asile pour toute personne fuyant une persécution ou une guerre. LFI s'oppose à toute externalisation des demandes d'asile et veut renforcer l'OFPRA et les capacités d'accueil.",
+          "impact": "high"
+        },
+        {
+          "title": "Régularisation des sans-papiers travailleurs",
+          "description": "Régularisation de masse des travailleurs sans-papiers présents depuis plusieurs années sur le territoire, contribuant à l'économie française. LFI estime que leur travail non déclaré entretient le dumping social.",
+          "impact": "high"
+        },
+        {
+          "title": "Lutte contre les causes de l'immigration",
+          "description": "Action diplomatique et économique pour s'attaquer aux racines des migrations forcées : guerres, changement climatique, dérèglement des marchés agricoles. LFI propose un 'plan Marshall' pour l'Afrique financé par l'annulation des dettes.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Désobéissance aux traités européens austéritaires",
+          "description": "Refus d'appliquer les règles budgétaires du Pacte de Stabilité (3 % de déficit) pour financer la planification écologique et les services publics. LFI défend une renégociation des traités ou, si nécessaire, leur transgression.",
+          "impact": "high"
+        },
+        {
+          "title": "Sortie de l'OTAN",
+          "description": "Retrait de la France du commandement intégré de l'OTAN, jugé incompatible avec la souveraineté nationale. LFI défend une politique de défense indépendante et une diplomatie de paix et de désarmement.",
+          "impact": "high"
+        },
+        {
+          "title": "Reconnaissance de l'État palestinien",
+          "description": "Reconnaissance immédiate et sans conditions de l'État palestinien dans les frontières de 1967. LFI est le parti le plus actif sur ce sujet au Parlement français et à l'international.",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "6e République – Assemblée constituante",
+          "description": "Remplacement de la Ve République présidentialiste par une 6e République parlementaire, rédigée par une Assemblée constituante élue au suffrage universel. LFI veut abolir les outils de passage en force comme le 49.3.",
+          "impact": "high"
+        },
+        {
+          "title": "Proportionnelle intégrale à l'Assemblée nationale",
+          "description": "Élection de tous les députés à la représentation proportionnelle pour refléter fidèlement les choix des électeurs. LFI dénonce le scrutin majoritaire à deux tours comme producteur de majorités artificielles.",
+          "impact": "high"
+        },
+        {
+          "title": "Encadrement des médias – loi anti-concentration",
+          "description": "Législation empêchant un même groupe de détenir plusieurs titres de presse, chaînes TV ou radios. LFI veut briser les monopoles médiatiques des milliardaires (Bolloré, Drahi, Niel) jugés incompatibles avec la démocratie.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

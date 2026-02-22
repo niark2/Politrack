@@ -1,0 +1,175 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "RE",
+  "partyName": "Renaissance / Ensemble",
+  "color": "#FFBE00",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Renaissance-logotype-officiel.svg",
+  "description": "Renaissance (ex-LREM), pilier de la coalition Ensemble, incarne un projet libéral et pro-européen de transformation de la France. Le parti défend une économie de l'offre, l'innovation technologique et la transition écologique progressive sans rupture. Sa doctrine repose sur le dépassement du clivage gauche-droite, l'investissement dans les compétences et la compétitivité, et un engagement fort pour la souveraineté européenne. La politique étrangère et de défense occupe une place centrale depuis l'invasion de l'Ukraine.",
+  "categories": [
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "Zéro hausse d'impôts – compétitivité préservée",
+          "description": "Engagement ferme de ne pas augmenter les impôts, ni sur les entreprises ni sur les ménages, pour préserver la compétitivité et l'attractivité de la France. La politique budgétaire doit reposer sur des économies de fonctionnement et non sur la hausse des prélèvements.",
+          "impact": "high"
+        },
+        {
+          "title": "Exonération de cotisations sur les hausses de salaires",
+          "description": "Exemption de cotisations sociales pour les hausses de salaires entre le SMIC et 2 500 euros net, et augmentation du plafond de la prime de partage de la valeur à 10 000 euros. Objectif : encourager les employeurs à revaloriser les rémunérations sans alourdir le coût du travail.",
+          "impact": "high"
+        },
+        {
+          "title": "Réforme des successions – faciliter la transmission",
+          "description": "Assouplissement du régime fiscal des successions pour les classes moyennes, afin de favoriser la transmission patrimoniale intergénérationnelle. Cette mesure répond à une demande forte de l'électorat modéré.",
+          "impact": "medium"
+        },
+        {
+          "title": "Soutien à l'investissement et à l'innovation",
+          "description": "Poursuite des politiques d'attractivité (French Tech, plan d'investissement France 2030) pour maintenir la France parmi les destinations prioritaires des entreprises technologiques. Objectif : créer des emplois qualifiés et accroître la valeur ajoutée nationale.",
+          "impact": "medium"
+        },
+        {
+          "title": "Facilitation pour les primo-accédants à la propriété",
+          "description": "Dispositifs d'aide à l'accession à la propriété pour les jeunes ménages, notamment via le prêt à taux zéro élargi et des partenariats avec les collectivités. Objectif : réduire les difficultés d'accès au logement dans les zones tendues.",
+          "impact": "medium"
+        },
+        {
+          "title": "Réduction du déficit et maîtrise de la dépense publique",
+          "description": "Plan de réduction progressive du déficit public via des économies structurelles sur le fonctionnement de l'État et l'optimisation des aides aux entreprises. L'objectif est un retour sous les 3 % à l'horizon 2029.",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Plan France 2030 – transition énergétique et industrielle",
+          "description": "Investissement massif de 54 milliards d'euros dans les technologies d'avenir : hydrogène vert, véhicule électrique, nucléaire de nouvelle génération, captage du carbone. Ce plan vise à décarboner l'économie tout en renforçant la compétitivité industrielle.",
+          "impact": "high"
+        },
+        {
+          "title": "Construction de nouveaux EPR2",
+          "description": "Programme de construction de 6 à 14 nouveaux réacteurs nucléaires pour sécuriser l'approvisionnement électrique et atteindre la neutralité carbone. Le nucléaire est réaffirmé comme pilier de la mix énergétique français.",
+          "impact": "high"
+        },
+        {
+          "title": "Rénovation énergétique des bâtiments",
+          "description": "Accélération du programme MaPrimeRénov' pour atteindre 700 000 rénovations globales par an. Cette mesure crée des emplois non-délocalisables dans le bâtiment tout en réduisant la dépendance énergétique des ménages.",
+          "impact": "medium"
+        },
+        {
+          "title": "Développement des énergies renouvelables",
+          "description": "Déploiement accéléré de l'éolien offshore et du solaire pour diversifier le mix énergétique et réduire les émissions de CO2. La France entend atteindre 40 % d'ENR dans sa production électrique d'ici 2030.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Investissement dans la santé – renforcement des hôpitaux",
+          "description": "Poursuite des réformes de l'hôpital public avec des investissements ciblés sur les équipements et les effectifs soignants. Le gouvernement veut résorber les délais d'attente et lutter contre les déserts médicaux par des incitations à l'installation.",
+          "impact": "high"
+        },
+        {
+          "title": "Réforme de l'éducation – lycée professionnel",
+          "description": "Réforme profonde du lycée professionnel pour mieux insérer les jeunes sur le marché du travail, avec une augmentation des périodes en entreprise et une revalorisation des diplômes professionnels. Objectif : diviser par deux le taux de chômage des jeunes non-qualifiés.",
+          "impact": "high"
+        },
+        {
+          "title": "Maintien de la réforme des retraites à 64 ans",
+          "description": "La réforme portant l'âge légal de départ à 64 ans est maintenue comme nécessaire à l'équilibre financier du système. Ensemble refuse tout retour en arrière, jugé irresponsable budgétairement.",
+          "impact": "high"
+        },
+        {
+          "title": "Développement du Service National Universel (SNU)",
+          "description": "Généralisation progressive du SNU pour renforcer la cohésion nationale et la culture civique chez les 15-17 ans. Le dispositif comprend un séjour de cohésion, une mission d'intérêt général et une formation aux premiers secours.",
+          "impact": "medium"
+        },
+        {
+          "title": "Plan contre la pauvreté et le sans-abrisme",
+          "description": "Poursuite du plan quinquennal de lutte contre la pauvreté, avec des objectifs chiffrés sur la réduction du nombre de personnes sans domicile fixe et l'accès aux droits sociaux.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Renforcement des forces de l'ordre",
+          "description": "Recrutement de 8 500 policiers et gendarmes supplémentaires d'ici 2027, avec amélioration des équipements et de la formation. L'accent est mis sur la police de proximité dans les quartiers prioritaires.",
+          "impact": "high"
+        },
+        {
+          "title": "Réforme de la justice pénale – accélération des procédures",
+          "description": "Réduction des délais de jugement et renforcement des juridictions de première instance. Ensemble veut que les décisions judiciaires soient rendues et exécutées plus rapidement pour rétablir la confiance des citoyens dans la justice.",
+          "impact": "medium"
+        },
+        {
+          "title": "Lutte contre le trafic de drogues",
+          "description": "Stratégie globale contre les réseaux de narcotrafic, incluant des moyens judiciaires renforcés, des saisies d'avoirs criminels et une meilleure coopération internationale. L'objectif est de frapper les têtes de réseaux et pas seulement les petits dealers.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Loi Immigration 2024 – contrôle renforcé",
+          "description": "Application stricte de la loi immigration de janvier 2024 : facilitation des expulsions, conditionnalité des titres de séjour, renforcement de la lutte contre le travail illégal. Renaissance défend une immigration légale maîtrisée et une lutte sans faille contre l'irrégulière.",
+          "impact": "high"
+        },
+        {
+          "title": "Coopération européenne sur l'asile",
+          "description": "Mise en œuvre du Pacte Européen sur la Migration et l'Asile pour harmoniser les règles entre États membres et réduire les flux secondaires. La France entend prendre un rôle moteur dans la définition d'une politique migratoire commune.",
+          "impact": "medium"
+        },
+        {
+          "title": "Intégration et formation linguistique",
+          "description": "Renforcement des cours de français obligatoires pour les primo-arrivants et conditionnalité du titre de séjour au respect des valeurs républicaines. L'intégration réussie est présentée comme une condition de la cohésion nationale.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Souveraineté européenne – autonomie stratégique",
+          "description": "Projet phare de Macron : construire une Europe puissance capable de se défendre, de produire et d'innover par elle-même, sans dépendance excessive envers les États-Unis ou la Chine. Cela passe par une défense commune, une politique industrielle et une diplomatie unifiée.",
+          "impact": "high"
+        },
+        {
+          "title": "Soutien à l'Ukraine",
+          "description": "Maintien d'un soutien militaire, financier et diplomatique indéfectible à l'Ukraine face à l'agression russe. Renaissance soutient les livraisons d'armements et l'accession à terme de l'Ukraine à l'Union européenne.",
+          "impact": "high"
+        },
+        {
+          "title": "Réforme de la gouvernance européenne",
+          "description": "Poursuite de l'approfondissement de l'Union avec passage à la majorité qualifiée sur davantage de sujets et renforcement du Parlement européen. Objectif : rendre l'UE plus réactive et plus démocratique.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Réforme constitutionnelle – introduction d'une part de proportionnelle",
+          "description": "Introduction d'une dose de représentation proportionnelle dans les élections législatives pour mieux refléter la diversité politique française. Cette réforme, annoncée puis plusieurs fois reportée, reste dans le programme d'Ensemble.",
+          "impact": "medium"
+        },
+        {
+          "title": "Décentralisation et différenciation territoriale",
+          "description": "Renforcement de l'autonomie des collectivités locales via la loi de différenciation, permettant aux régions et départements d'adapter les politiques nationales à leurs spécificités. Objectif : rapprocher la décision des citoyens.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

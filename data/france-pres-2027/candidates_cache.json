@@ -1,0 +1,336 @@
+{
+    "cachedAt": 1740096000000,
+    "lastUpdate": "21/02/2026",
+    "candidates": [
+        {
+            "fullName": "Philippe Poutou",
+            "party": "Nouveau Parti Anticapitaliste",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Extrême-Gauche",
+            "color": "#cc2443",
+            "poidsElectoral": "6",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Justice sociale",
+                "Services publics",
+                "Pouvoir d'achat"
+            ]
+        },
+        {
+            "fullName": "Nathalie Arthaud",
+            "party": "Lutte Ouvrière",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Extrême-Gauche",
+            "color": "#cc2443",
+            "poidsElectoral": "5",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Travail",
+                "Inégalités",
+                "Services publics"
+            ]
+        },
+        {
+            "fullName": "Jean-Luc Mélenchon",
+            "party": "La France Insoumise",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Gauche",
+            "color": "#cc2443",
+            "poidsElectoral": "45",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Pouvoir d'achat",
+                "Écologie",
+                "Services publics"
+            ]
+        },
+        {
+            "fullName": "François Ruffin",
+            "party": "Picardie Debout",
+            "dateOfAnnouncement": "Déclaré",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#cc2443",
+            "poidsElectoral": "28",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Pouvoir d'achat",
+                "Industrie",
+                "Services publics"
+            ]
+        },
+        {
+            "fullName": "Clémentine Autain",
+            "party": "L'Après",
+            "dateOfAnnouncement": "Déclaré",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#cc2443",
+            "poidsElectoral": "18",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Égalité",
+                "Écologie",
+                "Justice sociale"
+            ]
+        },
+        {
+            "fullName": "Raphaël Glucksmann",
+            "party": "Place Publique",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Gauche",
+            "color": "#e61973",
+            "poidsElectoral": "38",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Europe",
+                "Justice sociale",
+                "Écologie"
+            ]
+        },
+        {
+            "fullName": "Olivier Faure",
+            "party": "Parti Socialiste",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Gauche",
+            "color": "#e61973",
+            "poidsElectoral": "25",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Services publics",
+                "Égalité",
+                "Pouvoir d'achat"
+            ]
+        },
+        {
+            "fullName": "Fabien Roussel",
+            "party": "Parti Communiste Français",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Gauche",
+            "color": "#e61973",
+            "poidsElectoral": "30",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Industrie",
+                "Pouvoir d'achat",
+                "Services publics"
+            ]
+        },
+        {
+            "fullName": "Marine Tondelier",
+            "party": "Europe Écologie Les Verts",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Écologie",
+            "color": "#00b25d",
+            "poidsElectoral": "26",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Écologie",
+                "Climat",
+                "Transition énergétique"
+            ]
+        },
+        {
+            "fullName": "Sandrine Rousseau",
+            "party": "Europe Écologie Les Verts",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Écologie",
+            "color": "#00b25d",
+            "poidsElectoral": "22",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Écologie",
+                "Féminisme",
+                "Justice sociale"
+            ]
+        },
+        {
+            "fullName": "Gabriel Attal",
+            "party": "Renaissance",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Centre",
+            "color": "#1e40af",
+            "poidsElectoral": "48",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Économie",
+                "Europe",
+                "Travail"
+            ]
+        },
+        {
+            "fullName": "Édouard Philippe",
+            "party": "Horizons",
+            "dateOfAnnouncement": "Septembre 2025",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#1e40af",
+            "poidsElectoral": "52",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Économie",
+                "Sécurité",
+                "Compétitivité"
+            ]
+        },
+        {
+            "fullName": "Bruno Le Maire",
+            "party": "Renaissance",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Centre",
+            "color": "#1e40af",
+            "poidsElectoral": "20",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Économie",
+                "Budget",
+                "Industrie"
+            ]
+        },
+        {
+            "fullName": "Laurent Wauquiez",
+            "party": "Les Républicains",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "40",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Sécurité",
+                "Immigration",
+                "Fiscalité"
+            ]
+        },
+        {
+            "fullName": "Xavier Bertrand",
+            "party": "Les Républicains",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "35",
+            "poidsLabel": "Fort",
+            "themes": [
+                "Emploi",
+                "Sécurité",
+                "Industrie"
+            ]
+        },
+        {
+            "fullName": "David Lisnard",
+            "party": "Nouvelle Énergie",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "18",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Décentralisation",
+                "Économie",
+                "Sécurité"
+            ]
+        },
+        {
+            "fullName": "Valérie Pécresse",
+            "party": "Les Républicains",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "28",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Économie",
+                "Sécurité",
+                "Europe"
+            ]
+        },
+        {
+            "fullName": "Jordan Bardella",
+            "party": "Rassemblement National",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Extrême-Droite",
+            "color": "#800080",
+            "poidsElectoral": "75",
+            "poidsLabel": "Très Fort",
+            "themes": [
+                "Immigration",
+                "Sécurité",
+                "Pouvoir d'achat"
+            ]
+        },
+        {
+            "fullName": "Marine Le Pen",
+            "party": "Rassemblement National",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Non déclaré",
+            "orientation": "Extrême-Droite",
+            "color": "#800080",
+            "poidsElectoral": "60",
+            "poidsLabel": "Très Fort",
+            "themes": [
+                "Immigration",
+                "Pouvoir d'achat",
+                "Souveraineté"
+            ]
+        },
+        {
+            "fullName": "Éric Zemmour",
+            "party": "Reconquête",
+            "dateOfAnnouncement": "Non déclaré",
+            "status": "Pressenti",
+            "orientation": "Extrême-Droite",
+            "color": "#004792",
+            "poidsElectoral": "30",
+            "poidsLabel": "Moyen",
+            "themes": [
+                "Immigration",
+                "Identité",
+                "Sécurité"
+            ]
+        },
+        {
+            "fullName": "Nicolas Dupont-Aignan",
+            "party": "Debout la France",
+            "dateOfAnnouncement": "Janvier 2026",
+            "status": "Officiel",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "15",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Souveraineté",
+                "Pouvoir d'achat",
+                "Sécurité"
+            ]
+        },
+        {
+            "fullName": "François Asselineau",
+            "party": "Union Populaire Républicaine",
+            "dateOfAnnouncement": "Décembre 2025",
+            "status": "Officiel",
+            "orientation": "Droite",
+            "color": "#3b82f6",
+            "poidsElectoral": "10",
+            "poidsLabel": "Émergent",
+            "themes": [
+                "Frexit",
+                "Souveraineté",
+                "Économie"
+            ]
+        }
+    ]
+}

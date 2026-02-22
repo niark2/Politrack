@@ -1,0 +1,30 @@
+Sois EXHAUSTIF : cherche la liste la plus complète possible des personnalités politiques françaises pour l'élection présidentielle 2027.
+Inclus TOUTES les candidatures OFFICIELLES ainsi que TOUS les profils MAJEURS et CRÉDIBLES non encore déclarés (ex: Jordan Bardella, Gabriel Attal, Jean-Luc Mélenchon, Raphaël Glucksmann, Édouard Philippe, Laurent Wauquiez, Marine Tondelier, Éric Zemmour, François Ruffin, etc.).
+Balaye tout l'échiquier politique, de l'Extrême-Gauche à l'Extrême-Droite, sans oublier les petits candidats ou les courants dissidents (ex: David Lisnard, Xavier Bertrand, Clémentine Autain, etc.). Je veux au moins 20 profils si possible.
+Pour chaque personnalité, fournis des détails enrichis pour une fiche candidat.
+
+RÈGLES :
+1. 'lastUpdate' doit être la date du jour (date de génération du JSON par l'IA) au format DD/MM/YYYY.
+2. 'cachedAt' doit être le timestamp actuel en millisecondes.
+3. 'orientation' : choisis parmi "Extrême-Gauche", "Gauche", "Écologie", "Centre", "Droite", "Extrême-Droite".
+4. 'themes' : liste de 3 thèmes majeurs de campagne (ex: "Pouvoir d'achat", "Sécurité", "Écologie", "Immigration", "Services publics", "Économie").
+5. 'color' : ajoute obligatoirement un champ 'color' avec le code hexadécimal correspondant à sa couleur politique standard (ex: #800080 pour RN, #1e40af pour Ensemble/Centre, #cc2443 pour LFI, #3b82f6 pour LR, #00b25d pour EELV, #e61973 pour PS, #004792 pour Reconquête).
+
+FORMAT JSON ATTENDU :
+{
+  "cachedAt": [TIMESTAMP_ACTUEL_MS],
+  "lastUpdate": "21/02/2026",
+  "candidates": [
+    { 
+      "fullName": "Prénom Nom", 
+      "party": "Parti", 
+      "dateOfAnnouncement": "Date ou mois de l'annonce (ou 'Non déclaré' si applicable)", 
+      "status": "Officiel, Pressenti ou Non déclaré",
+      "orientation": "Positionnement politique",
+      "color": "#HEXCODE",
+      "poidsElectoral": "Nombre de 0 à 100 représentant sa force actuelle selon les observateurs",
+      "poidsLabel": "Très Fort, Fort, Moyen ou Émergent",
+      "themes": ["Thème 1", "Thème 2", "Thème 3"]
+    }
+  ]
+}

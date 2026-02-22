@@ -1,0 +1,170 @@
+{
+  "lastUpdate": "22/02/2026",
+  "partyId": "REC",
+  "partyName": "Reconquête",
+  "color": "#0A0A5A",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_du_parti_Reconqu%C3%AAte_-_Version_courte.svg",
+  "description": "Reconquête, fondé par Éric Zemmour en 2021, se positionne à l'extrême droite identitaire et nationaliste. Son projet central est la 'remigration' massive et la restauration de l'identité française face à ce qu'il décrit comme un 'Grand Remplacement'. Économiquement, le parti est libéral et pro-entreprises, avec une fiscalité allégée pour les PME et les classes moyennes. Reconquête défend la sortie de l'OTAN, le renforcement de la puissance militaire française et une diplomatie indépendante, parfois proche de positions pro-russes.",
+  "categories": [
+    {
+      "name": "Immigration",
+      "measures": [
+        {
+          "title": "Remigration – expulsions massives d'étrangers",
+          "description": "Plan de 'remigration' prévoyant l'expulsion de plusieurs millions d'étrangers extra-européens, y compris ceux en situation régulière mais n'ayant pas la nationalité française. C'est la mesure la plus radicale du programme Reconquête, présentée comme une priorité absolue.",
+          "impact": "high"
+        },
+        {
+          "title": "Suppression de toutes les aides sociales pour les étrangers non-européens",
+          "description": "Suppression totale des prestations non contributives (allocations familiales, aides au logement, RSA, minimum vieillesse) pour les étrangers extra-européens. Reconquête chiffre les économies à 20 milliards d'euros par an.",
+          "impact": "high"
+        },
+        {
+          "title": "Caution de 10 000 € pour les visas",
+          "description": "Obligation pour les ressortissants de pays à fort taux d'émigration irrégulière de verser une caution de 10 000 euros pour obtenir un visa. Cette caution serait restituée au retour dans le pays d'origine.",
+          "impact": "high"
+        },
+        {
+          "title": "Fin du droit du sol et du regroupement familial",
+          "description": "Suppression complète du droit du sol et du regroupement familial. La nationalité française ne pourrait plus s'acquérir que par la filiation ou la naturalisation après 10 ans de résidence régulière.",
+          "impact": "high"
+        },
+        {
+          "title": "Mur aux frontières terrestres de l'UE",
+          "description": "Soutien à la construction d'un mur physique aux frontières terrestres extérieures de l'Union européenne, cofinancé par tous les États membres. Reconquête s'inspire du modèle hongrois.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Économie & Pouvoir d'achat",
+      "measures": [
+        {
+          "title": "13e mois par baisse de la CSG (100€/mois)",
+          "description": "Baisse de la CSG pour les salariés gagnant jusqu'à 2 000 euros, équivalant à 100 euros nets supplémentaires par mois. Cette mesure est présentée comme un 'treizième mois' rendu aux Français.",
+          "impact": "high"
+        },
+        {
+          "title": "Baisse des impôts de production de 30 milliards €",
+          "description": "Réduction massive des impôts pesant sur la production industrielle (CVAE, CFE) à hauteur de 30 milliards d'euros. Objectif : relocaliser l'industrie en France en réduisant le coût de production.",
+          "impact": "high"
+        },
+        {
+          "title": "Impôt sur les sociétés à 15 % pour les PME/TPE",
+          "description": "Abaissement du taux d'IS à 15 % pour les petites et moyennes entreprises. Reconquête considère que la fiscalité française est prohibitive pour les entrepreneurs et nuit à la création d'emplois.",
+          "impact": "medium"
+        },
+        {
+          "title": "Grand audit de la Cour des comptes",
+          "description": "Audit général de toutes les politiques publiques par la Cour des comptes dès le lendemain de l'élection, pour identifier les économies structurelles. Reconquête s'engage à 65 milliards d'euros d'économies en année pleine.",
+          "impact": "medium"
+        },
+        {
+          "title": "Interdiction des importations agricoles non conformes aux normes françaises",
+          "description": "Clause miroir systématique interdisant l'importation de produits agricoles qui ne respectent pas les standards de qualité, sanitaires et environnementaux français. Objectif : protéger les agriculteurs de la concurrence déloyale.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sécurité & Justice",
+      "measures": [
+        {
+          "title": "Majorité pénale abaissée à 16 ans",
+          "description": "Abaissement de la majorité pénale à 16 ans pour que les adolescents auteurs de crimes graves soient jugés comme des adultes. Reconquête dénonce la 'clémence' du tribunal pour enfants face aux violences de mineurs.",
+          "impact": "high"
+        },
+        {
+          "title": "Peines incompressibles pour crimes graves",
+          "description": "Introduction de peines de prison incompressibles pour les crimes de sang, les viols et les actes terroristes. Les condamnés ne pourraient bénéficier d'aucune réduction de peine ou libération conditionnelle.",
+          "impact": "high"
+        },
+        {
+          "title": "Légion étrangère de l'ordre public",
+          "description": "Création d'une unité spéciale de maintien de l'ordre pouvant être déployée rapidement dans les quartiers en crise. Reconquête veut une force de dissuasion visible et musclée.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Écologie (Climat/Énergie)",
+      "measures": [
+        {
+          "title": "Relance totale du nucléaire – prolongation à 60 ans",
+          "description": "Suppression de l'objectif de 50 % de nucléaire en 2035 et prolongation de la durée de vie de tous les réacteurs à 60 ans minimum. Reconquête est le parti le plus pro-nucléaire de France et dénonce la politique de fermeture des réacteurs.",
+          "impact": "high"
+        },
+        {
+          "title": "Programme ASTRID – réacteurs de 4e génération",
+          "description": "Relance de la recherche sur les réacteurs de 4e génération (programme ASTRID) et participation pleine à ITER (fusion nucléaire). Reconquête veut faire de la France le leader mondial de l'énergie nucléaire civile.",
+          "impact": "high"
+        },
+        {
+          "title": "Refus du Green Deal européen contraignant",
+          "description": "Opposition aux normes européennes environnementales jugées destructrices pour l'industrie et l'agriculture françaises. Reconquête veut renégocier les règlements qui imposent la sortie du moteur thermique ou les réductions de pesticides.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Europe & International",
+      "measures": [
+        {
+          "title": "Sortie de l'OTAN",
+          "description": "Retrait complet de la France de l'OTAN pour restaurer la pleine souveraineté de la défense française. Reconquête s'inscrit dans la tradition gaulliste de la non-intégration et dénonce la vassalisation de l'Europe aux États-Unis.",
+          "impact": "high"
+        },
+        {
+          "title": "Doublement du budget défense (70 milliards en 2030)",
+          "description": "Augmentation du budget des armées de 30 milliards d'euros supplémentaires pour atteindre 70 milliards d'euros en 2030. Reconquête veut construire un second porte-avions et revaloriser de 20 % les soldes militaires.",
+          "impact": "high"
+        },
+        {
+          "title": "Europe des nations – refus du fédéralisme",
+          "description": "Opposition catégorique à toute intégration européenne supranationale supplémentaire. Reconquête veut une Europe des États souverains, coopérant sur des sujets limités (commerce, défense extérieure), sans Commission dotée de pouvoir normatif.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Social (Santé/Éducation)",
+      "measures": [
+        {
+          "title": "Retraites à 62 ans pour les métiers pénibles",
+          "description": "Maintien de la retraite anticipée pour les travailleurs en situation de pénibilité avérée. Reconquête défend un système différencié qui tient compte de la réalité des conditions de travail.",
+          "impact": "medium"
+        },
+        {
+          "title": "Enseignement de l'histoire de France renforcé",
+          "description": "Refonte des programmes scolaires d'histoire pour valoriser le roman national français, les grandes figures et les réalisations de la civilisation française. Reconquête veut combattre ce qu'il perçoit comme une 'désinformation idéologique' à l'école.",
+          "impact": "medium"
+        },
+        {
+          "title": "Exonération de CSG/CRDS sur les petites retraites",
+          "description": "Suppression des prélèvements sociaux (CSG et CRDS) sur les retraites inférieures à 1 500 euros mensuels. Reconquête veut redonner du pouvoir d'achat aux retraités modestes qui ont cotisé toute leur vie et se retrouvent pénalisés par des prélèvements jugés injustes.",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Institutions",
+      "measures": [
+        {
+          "title": "Référendum d'initiative nationale",
+          "description": "Introduction d'un référendum d'initiative nationale pouvant être déclenché par pétition citoyenne sur tous les sujets, y compris constitutionnels. Reconquête entend contourner les élites politiques et médiatiques jugées hors-sol.",
+          "impact": "high"
+        },
+        {
+          "title": "Suppression du Conseil Économique, Social et Environnemental",
+          "description": "Dissolution du CESE et de nombreuses agences et hautes autorités administratives indépendantes jugées inutiles et coûteuses. Reconquête estime que ces instances sont des 'nids à pantouflage' qui n'ont aucune légitimité démocratique.",
+          "impact": "medium"
+        },
+        {
+          "title": "Élection du Premier ministre au suffrage universel direct",
+          "description": "Proposition d'élire le Premier ministre directement par les citoyens, indépendamment du Président de la République. Objectif : renforcer la légitimité du chef du gouvernement et clarifier la responsabilité politique.",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

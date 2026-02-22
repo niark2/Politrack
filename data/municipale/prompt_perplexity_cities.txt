@@ -1,0 +1,22 @@
+Agis comme un analyste politique expert des élections municipales françaises. 
+Ta tâche est de fournir un état des lieux des intentions de vote et des dynamiques politiques pour les 10 plus grandes villes de France (Paris, Lyon, Marseille, Bordeaux, Lille, Nantes, Strasbourg, Montpellier, Rennes, Toulouse, Nice) pour les prochaines élections municipales.
+
+Renvoie UNIQUEMENT un objet JSON strictement formaté comme suit, sans texte superflu ni balises de code :
+
+[
+  {
+    "cityName": "Nom de la Ville",
+    "region": "Région",
+    "favorite": "Nom du favori actuel",
+    "scores": [
+      { "label": "Parti/Candidat Principal", "value": 35, "color": "#HEX_COLOR" },
+      { "label": "Parti/Candidat Challenger", "value": 25, "color": "#HEX_COLOR" },
+      { "label": "Autres", "value": 40, "color": "#94a3b8" }
+    ]
+  }
+]
+
+Assure-toi que :
+1. Les valeurs sont des entiers représentant des pourcentages d'intentions de vote ou de dynamique.
+2. Les couleurs correspondent aux couleurs officielles des partis politiques français (ex: #ec008c pour PS, #0066cc pour LR, #ffeb00 pour LFI/NFP, #004a77 pour RN, #ff9900 pour MoDem, #24b22c pour EELV).
+3. Les données sont basées sur les derniers sondages ou analyses de rapports de force récents.

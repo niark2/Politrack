@@ -1,0 +1,29 @@
+[
+    {
+        "id": "france-pres-2027",
+        "name": "Présidentielle 2027",
+        "type": "presidential",
+        "country": "FR",
+        "flag": "🇫🇷",
+        "targetDate": "2027-04-11",
+        "isDefault": true
+    },
+    {
+        "id": "france-leg",
+        "name": "Législatives",
+        "type": "legislative",
+        "country": "FR",
+        "flag": "🇫🇷",
+        "targetDate": "2028-07-07",
+        "isDefault": false
+    },
+    {
+        "id": "municipale",
+        "name": "Municipales 2026",
+        "type": "municipal",
+        "country": "FR",
+        "flag": "🇫🇷",
+        "targetDate": "2026-03-15",
+        "isDefault": false
+    }
+]

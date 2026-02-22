@@ -1,0 +1,20 @@
+{
+    "cachedAt": 1771702680000,
+    "date": "2025-11-24",
+    "institute": "Odoxa-Mascaret / Public Sénat",
+    "duel": "Bardella vs Philippe",
+    "candidates": [
+        {
+            "name": "J. Bardella",
+            "fullName": "Jordan Bardella",
+            "score": 53,
+            "color": "#003189"
+        },
+        {
+            "name": "E. Philippe",
+            "fullName": "Édouard Philippe",
+            "score": 47,
+            "color": "#1368C1"
+        }
+    ]
+}

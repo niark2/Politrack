@@ -1,0 +1,216 @@
+{
+    "cachedAt": 1708479030123,
+    "lastUpdate": "21/02/2026",
+    "candidates": [
+        {
+            "fullName": "Nouveau Front populaire",
+            "party": "NFP",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#E41B23",
+            "poidsElectoral": "≈30% des sièges à l’Assemblée",
+            "poidsLabel": "Majeur",
+            "themes": [
+                "Pouvoir d'achat",
+                "Solidarité",
+                "Transition écologique"
+            ]
+        },
+        {
+            "fullName": "Ensemble pour la République",
+            "party": "Ensemble",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#FFC000",
+            "poidsElectoral": "≈26% des sièges à l’Assemblée",
+            "poidsLabel": "Majeur",
+            "themes": [
+                "Croissance économique",
+                "Pro‑Europe",
+                "Réformes structurelles"
+            ]
+        },
+        {
+            "fullName": "Rassemblement National et alliés",
+            "party": "RN",
+            "status": "Officiel",
+            "orientation": "Extrême‑Droite",
+            "color": "#004494",
+            "poidsElectoral": "≈22% des sièges à l’Assemblée",
+            "poidsLabel": "Majeur",
+            "themes": [
+                "Immigration",
+                "Sécurité",
+                "Souveraineté nationale"
+            ]
+        },
+        {
+            "fullName": "Les Républicains",
+            "party": "LR",
+            "status": "Officiel",
+            "orientation": "Droite",
+            "color": "#0066CC",
+            "poidsElectoral": "≈7% des sièges à l’Assemblée",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Fiscalité maîtrisée",
+                "Autorité et sécurité",
+                "Famille"
+            ]
+        },
+        {
+            "fullName": "Renaissance",
+            "party": "RE",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#00ADEF",
+            "poidsElectoral": "Partie importante d’Ensemble",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Europe",
+                "Innovation",
+                "Réforme de l’État"
+            ]
+        },
+        {
+            "fullName": "Mouvement Démocrate",
+            "party": "MoDem",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#F78F20",
+            "poidsElectoral": "Allié d’Ensemble",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Décentralisation",
+                "Citoyenneté",
+                "Solidarité locale"
+            ]
+        },
+        {
+            "fullName": "Horizons",
+            "party": "Horizons",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#005BBB",
+            "poidsElectoral": "Allié d’Ensemble",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Croissance économique",
+                "Sécurité",
+                "Territoires"
+            ]
+        },
+        {
+            "fullName": "La France insoumise",
+            "party": "LFI",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#8F1D21",
+            "poidsElectoral": "Partie majeure du NFP",
+            "poidsLabel": "Majeur",
+            "themes": [
+                "Justice sociale",
+                "Services publics",
+                "Fiscalité redistributive"
+            ]
+        },
+        {
+            "fullName": "Parti Socialiste",
+            "party": "PS",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#EE1C25",
+            "poidsElectoral": "Partie du NFP",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Justice sociale",
+                "Égalité",
+                "Protection sociale"
+            ]
+        },
+        {
+            "fullName": "Les Écologistes (EELV)",
+            "party": "EELV",
+            "status": "Officiel",
+            "orientation": "Écologie",
+            "color": "#4CBB17",
+            "poidsElectoral": "Partie du NFP",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Transition écologique",
+                "Biodiversité",
+                "Énergies renouvelables"
+            ]
+        },
+        {
+            "fullName": "Parti Communiste Français",
+            "party": "PCF",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#CC0000",
+            "poidsElectoral": "Partie du NFP",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Travail et emploi",
+                "Logement",
+                "Services publics"
+            ]
+        },
+        {
+            "fullName": "Divers Gauche",
+            "party": "DVG",
+            "status": "Officiel",
+            "orientation": "Gauche",
+            "color": "#C000C0",
+            "poidsElectoral": "≈2% des sièges",
+            "poidsLabel": "Minoritaire",
+            "themes": [
+                "Localisme",
+                "Justice sociale",
+                "Pluralisme politique"
+            ]
+        },
+        {
+            "fullName": "Divers Droite",
+            "party": "DVD",
+            "status": "Officiel",
+            "orientation": "Droite",
+            "color": "#0070C0",
+            "poidsElectoral": "≈5% des sièges",
+            "poidsLabel": "Minoritaire",
+            "themes": [
+                "Fiscalité locale",
+                "Sécurité",
+                "Entreprises"
+            ]
+        },
+        {
+            "fullName": "Union des Démocrates et Indépendants",
+            "party": "UDI",
+            "status": "Officiel",
+            "orientation": "Centre",
+            "color": "#FFD700",
+            "poidsElectoral": "Allié d’Ensemble / LR",
+            "poidsLabel": "Significatif",
+            "themes": [
+                "Libertés publiques",
+                "Économie sociale",
+                "Décentralisation"
+            ]
+        },
+        {
+            "fullName": "Union de l'Extrême Droite",
+            "party": "UXD",
+            "status": "Officiel",
+            "orientation": "Extrême‑Droite",
+            "color": "#990000",
+            "poidsElectoral": "≈3% des sièges",
+            "poidsLabel": "Minoritaire",
+            "themes": [
+                "Nationalisme",
+                "Anti‑immigration",
+                "Souveraineté"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+Cherche les derniers sondages de Second Tour pour l'élection présidentielle 2027 française.
+Identifie le duel le plus souvent testé ou le plus récent (ex: Bardella vs Philippe, ou Bardella vs Attal).
+Donne-moi le score de chaque candidat dans un format JSON strict.
+
+RÈGLES :
+1. Uniquement 2 candidats.
+2. Total = 100%.
+3. Garde les mêmes codes couleurs HEX que pour le premier tour.
+4. 'lastUpdate' doit être la date du jour (date de génération du JSON par l'IA) au format DD/MM/YYYY.
+
+FORMAT JSON :
+{
+  "cachedAt": [TIMESTAMP_ACTUEL_MS],
+  "lastUpdate": "21/02/2026",
+  "date": "[DATE_DU_SONDAGE]",
+  "institute": "[NOM_DE_L_INSTITUT]",
+  "duel": "[NOM_DU_DUEL]",
+  "candidates": [
+    { "name": "Init. Nom", "fullName": "Prénom Nom", "score": 52, "color": "#HEX" },
+    { "name": "Init. Nom", "fullName": "Prénom Nom", "score": 48, "color": "#HEX" }
+  ]
+}

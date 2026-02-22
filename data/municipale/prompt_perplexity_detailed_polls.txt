@@ -1,0 +1,23 @@
+Agis comme un archiviste de sondages politiques. 
+Recherche les 5 derniers sondages de type 'Intentions de vote' spécifiquement pour les élections municipales dans les grandes villes françaises.
+
+Renvoie UNIQUEMENT un objet JSON strictement formaté comme suit (basé sur l'historique des sondages par institut), sans aucun autre texte :
+
+{
+  "lastUpdate": "Date du jour (JJ/MM/AAAA)",
+  "polls": [
+    {
+      "institute": "Nom de l'institut (ex: IFOP)",
+      "date": "Date de publication",
+      "city": "Nom de la ville",
+      "sample": "Taille de l'échantillon",
+      "results": [
+        { "name": "Nom du candidat ou liste", "party": "Sigle Parti", "score": 28, "color": "#HEX_COLOR" }
+      ]
+    }
+  ]
+}
+
+Structure le JSON pour qu'il soit directement exploitable. 
+Utilise les couleurs réelles des partis politiques.
+Focalise sur les sondages parus dans les 6 derniers mois.

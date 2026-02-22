@@ -1,0 +1,48 @@
+{
+    "cachedAt": 1708500000000,
+    "lastUpdate": "21/02/2026",
+    "candidates": [
+        {
+            "name": "J. Bardella",
+            "fullName": "Jordan Bardella",
+            "score": 36.8,
+            "color": "#800080"
+        },
+        {
+            "name": "G. Attal",
+            "fullName": "Gabriel Attal",
+            "score": 14.7,
+            "color": "#ffcc00"
+        },
+        {
+            "name": "E. Philippe",
+            "fullName": "Édouard Philippe",
+            "score": 10.5,
+            "color": "#1e40af"
+        },
+        {
+            "name": "B. Retailleau",
+            "fullName": "Bruno Retailleau",
+            "score": 12.6,
+            "color": "#0066cc"
+        },
+        {
+            "name": "J.-L. Mélenchon",
+            "fullName": "Jean-Luc Mélenchon",
+            "score": 12.6,
+            "color": "#cc2443"
+        },
+        {
+            "name": "F. Roussel",
+            "fullName": "Fabien Roussel",
+            "score": 6.3,
+            "color": "#e61973"
+        },
+        {
+            "name": "M. Tondelier",
+            "fullName": "Marine Tondelier",
+            "score": 6.3,
+            "color": "#00b25d"
+        }
+    ]
+}

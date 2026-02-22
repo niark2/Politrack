@@ -1,0 +1,117 @@
+{
+    "lastUpdate": "05/07/2024",
+    "polls": [
+        {
+            "institute": "Ipsos",
+            "commissioner": "Le Monde, Radio France, France Télévisions",
+            "date": "05/07/2024",
+            "sampleSize": "≈10 000 électeurs",
+            "note": "Projection avant le second tour, fourchettes de sièges estimées",
+            "results": [
+                {
+                    "fullName": "Nouveau Front Populaire (NFP)",
+                    "score": "145‑175",
+                    "color": "#E41B23"
+                },
+                {
+                    "fullName": "Ensemble pour la République (ENS)",
+                    "score": "118‑148",
+                    "color": "#FFC000"
+                },
+                {
+                    "fullName": "Rassemblement National & alliés (RN)",
+                    "score": "170‑205",
+                    "color": "#004494"
+                },
+                {
+                    "fullName": "Les Républicains et alliés (LR/DVD/UDI)",
+                    "score": "57‑67",
+                    "color": "#0066CC"
+                },
+                {
+                    "fullName": "Divers gauche",
+                    "score": "14‑16",
+                    "color": "#C000C0"
+                },
+                {
+                    "fullName": "Autres divers",
+                    "score": "8‑12",
+                    "color": "#999999"
+                }
+            ]
+        },
+        {
+            "institute": "Ifop",
+            "commissioner": "LCI, Le Figaro, Sud Radio",
+            "date": "05/07/2024",
+            "sampleSize": "Projet quotidien (rolling sondage)",
+            "note": "Fourchettes de sièges à l’échelle nationale",
+            "results": [
+                {
+                    "fullName": "Rassemblement National & alliés (RN)",
+                    "score": "170‑210",
+                    "color": "#004494"
+                },
+                {
+                    "fullName": "Nouveau Front Populaire (NFP)",
+                    "score": "155‑185",
+                    "color": "#E41B23"
+                },
+                {
+                    "fullName": "Majorité présidentielle (Ensemble & centristes)",
+                    "score": "120‑150",
+                    "color": "#FFC000"
+                },
+                {
+                    "fullName": "Les Républicains et alliés (LR/DVD)",
+                    "score": "30‑50",
+                    "color": "#0066CC"
+                },
+                {
+                    "fullName": "Divers gauche",
+                    "score": "10‑18",
+                    "color": "#C000C0"
+                },
+                {
+                    "fullName": "Divers",
+                    "score": "5‑15",
+                    "color": "#999999"
+                }
+            ]
+        },
+        {
+            "institute": "Elabe",
+            "commissioner": "BFMTV",
+            "date": "07/07/2024 (soir estimations)",
+            "sampleSize": "Projection au second tour",
+            "note": "Fourchettes en sièges selon estimation d’ensemble",
+            "results": [
+                {
+                    "fullName": "Nouveau Front Populaire (NFP)",
+                    "score": "178‑205",
+                    "color": "#E41B23"
+                },
+                {
+                    "fullName": "Ensemble pour la République (ENS)",
+                    "score": "157‑174",
+                    "color": "#FFC000"
+                },
+                {
+                    "fullName": "Rassemblement National & alliés (RN)",
+                    "score": "113‑148",
+                    "color": "#004494"
+                },
+                {
+                    "fullName": "Les Républicains et alliés (LR/DVD/UDI)",
+                    "score": "67‑71",
+                    "color": "#0066CC"
+                },
+                {
+                    "fullName": "Divers, régionaux et autres",
+                    "score": "10",
+                    "color": "#999999"
+                }
+            ]
+        }
+    ]
+}

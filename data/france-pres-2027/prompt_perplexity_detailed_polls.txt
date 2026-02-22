@@ -1,0 +1,25 @@
+Cherche les derniers sondages individuels parus pour l'élection présidentielle 2027 en France (premier tour). 
+Je ne veux pas une synthèse, mais la liste des sondages par institut (ex: IFOP, IPSOS, ELABE, Cluster17, etc.).
+
+RÈGLES :
+1. Liste au moins les 5 derniers sondages parus.
+2. Chaque sondage doit avoir son propre objet avec l'institut, la date, et les scores détaillés.
+3. Pour chaque candidat dans 'results', ajoute obligatoirement un champ 'color' avec le code hexadécimal correspondant à sa couleur politique standard (ex: #800080 pour RN, #1e40af pour Ensemble, #cc2443 pour LFI, #3b82f6 pour LR, #00b25d pour EELV, #e61973 pour PS).
+4. 'lastUpdate' doit être la date du jour au format DD/MM/YYYY.
+
+FORMAT JSON ATTENDU :
+{
+  "lastUpdate": "21/02/2026",
+  "polls": [
+    {
+      "institute": "Nom de l'institut (ex: IFOP)",
+      "date": "Date de publication (ex: 15 Février 2026)",
+      "sampleSize": "Taille de l'échantillon (ex: 1000 personnes)",
+      "commissioner": "Commanditaire (ex: LCI, Le Figaro)",
+      "results": [
+        { "fullName": "Nom du candidat", "score": 24.5, "color": "#HEXCODE" },
+        { "fullName": "Nom du candidat", "score": 18.0, "color": "#HEXCODE" }
+      ]
+    }
+  ]
+}

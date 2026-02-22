@@ -1,0 +1,29 @@
+Sois EXHAUSTIF : cherche la liste des principaux partis et coalitions politiques français pour les élections législatives.
+Inclus les blocs majeurs (ex: Nouveau Front Populaire, Ensemble pour la République, Rassemblement National & alliés) ainsi que les partis individuels significatifs (LR, Divers Gauche, Divers Droite, etc.).
+
+Pour chaque force politique, fournis des détails enrichis pour une fiche de parti.
+
+RÈGLES :
+1. 'lastUpdate' doit être la date du jour au format DD/MM/YYYY.
+2. 'cachedAt' doit être le timestamp actuel en millisecondes.
+3. 'orientation' : choisis parmi "Extrême-Gauche", "Gauche", "Écologie", "Centre", "Droite", "Extrême-Droite".
+4. 'themes' : liste de 3 thèmes majeurs du programme (ex: "Services publics", "Pouvoir d'achat", "Sécurité", "Réindustrialisation", "Solidarité").
+5. 'color' : ajoute obligatoirement un champ 'color' avec le code hexadécimal officiel du parti/bloc (ex: #E41B23 pour NFP, #FFC000 pour Ensemble, #004494 pour RN, #0066CC pour LR).
+
+FORMAT JSON ATTENDU :
+{
+  "cachedAt": [TIMESTAMP_ACTUEL_MS],
+  "lastUpdate": "DD/MM/YYYY",
+  "candidates": [
+    { 
+      "fullName": "Nom de la Coalition ou du Parti", 
+      "party": "Sigle", 
+      "status": "Officiel",
+      "orientation": "Positionnement politique",
+      "color": "#HEXCODE",
+      "poidsElectoral": "Estimation du poids politique global",
+      "poidsLabel": "Dominant, Majeur, Significatif ou Minoritaire",
+      "themes": ["Thème 1", "Thème 2", "Thème 3"]
+    }
+  ]
+}

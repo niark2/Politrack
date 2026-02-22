@@ -1,0 +1,38 @@
+### PROMPT PERPLEXITY : CATALOGUE EXHAUSTIF DES PROGRAMMES AVEC LOGOS (FRANCE)
+
+---
+
+**Instructions pour Perplexity (Mode Pro/Research recommandé) :**
+
+"Réalise une recherche approfondie et génère un fichier JSON exhaustif présentant les programmes politiques actuels en France pour les formations suivantes : Rassemblement National (RN), Renaissance / Ensemble, La France Insoumise (LFI), Parti Socialiste (PS), Les Écologistes (EELV), Les Républicains (LR), et Reconquête.
+
+Pour chaque parti, tu dois fournir :
+1. **Identité** : Nom complet, ID court (ex: 'RN'), couleur HEX officielle, et surtout l'URL directe d'un logo de haute qualité hébergé sur Wikipedia ou Wikimedia Commons (format .svg, .png ou .jpg).
+2. **Vision** : Une synthèse de 3-4 phrases expliquant la doctrine et le projet global.
+3. **Catégories** : Au minimum 6 thématiques parmi les suivantes : Économie & Pouvoir d'achat, Écologie (Climat/Énergie), Social (Santé/Éducation), Sécurité & Justice, Immigration, Europe & International, Institutions.
+4. **Mesures** : Dans chaque catégorie, liste 4 à 6 mesures précises. Chaque mesure doit avoir un titre percutant, une description détaillée (2-3 phrases) et un niveau d'impact ('high' pour les mesures phares/urgentes, 'medium' pour les réformes de structure, 'low' pour les mesures d'ajustement).
+
+Le fichier doit respecter strictement cette structure JSON (sans texte avant ou après) :
+
+{
+    "lastUpdate": "22/02/2026",
+    "programs": [
+        {
+            "partyId": "STRING",
+            "partyName": "STRING",
+            "color": "#HEX",
+            "logoUrl": "URL_WIKIPEDIA_OU_COMMONS",
+            "description": "STRING",
+            "categories": [
+                {
+                    "name": "STRING",
+                    "measures": [
+                        { "title": "STRING", "description": "STRING", "impact": "high|medium|low" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+Assure-toi que les mesures soient basées sur les derniers rapports, livrets de programme ou déclarations officielles de 2024-2026. L'objectif est d'avoir le catalogue le plus dense possible pour un dashboard d'analyse."

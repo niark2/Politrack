@@ -1,0 +1,21 @@
+Cherche les projections de SIÈGES les plus récentes pour l'Assemblée nationale française suite aux élections législatives.
+Donne le nombre de sièges estimé par groupe ou coalition.
+
+RÈGLES :
+1. 'lastUpdate' : date de la projection au format DD/MM/YYYY.
+2. 'cachedAt' : timestamp actuel en ms.
+3. 'duel' : "Répartition des Sièges"
+4. 'orientation' : OBLIGATOIRE. Choisis parmi "Extrême-Gauche", "Gauche", "Écologie", "Centre", "Droite", "Extrême-Droite". Cela servira à placer les blocs dans l'hémicycle de Gauche à Droite.
+5. 'candidates' : liste des groupes avec le nombre de sièges (score).
+
+FORMAT JSON ATTENDU :
+{
+  "cachedAt": [TIMESTAMP_ACTUEL_MS],
+  "lastUpdate": "DD/MM/YYYY",
+  "duel": "Projection de l'Hémicycle",
+  "candidates": [
+    { "name": "NFP", "fullName": "Nouveau Front Populaire", "score": 182, "color": "#E41B23", "orientation": "Gauche" },
+    { "name": "ENS", "fullName": "Ensemble", "score": 168, "color": "#FFC000", "orientation": "Centre" },
+    { "name": "RN", "fullName": "Rassemblement National & Alliés", "score": 143, "color": "#004494", "orientation": "Extrême-Droite" }
+  ]
+}

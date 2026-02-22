@@ -1,0 +1,31 @@
+Agis comme un institut de sondage. Je souhaite une carte détaillée des tendances pour les élections municipales françaises de 2026.
+Fournis un JSON des prévisions *actuelles* pour UN MAXIMUM de grandes villes et villes moyennes en France (liste non exhaustive : Paris, Marseille, Lyon, Toulouse, Nice, Nantes, Montpellier, Strasbourg, Bordeaux, Lille, Rennes, Reims, Saint-Étienne, Le Havre, Toulon, Grenoble, Dijon, Angers, Nîmes, Villeurbanne, Clermont-Ferrand, Le Mans, Aix-en-Provence, Brest, Tours, Amiens, Limoges, Annecy, Perpignan, Boulogne-Billancourt, Metz, Besançon, Orléans... tu peux en mettre jusqu'à 50 !).
+
+Il FAUT OBLIGATOIREMENT, pour chaque ville, inclure la "lat" (latitude) exacte (ex: 48.8566) et la "lng" (longitude) exacte (ex: 2.3522). C'est crucial pour la cartographie.
+
+Renvoie UNIQUEMENT un tableau JSON stricte (SANS markdown, sans code fences, SANS blabla avant ou après). 
+
+Structure exacte attendue:
+[
+  {
+    "cityName": "Paris",
+    "region": "Île-de-France",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "favorite": "Rachida Dati (Majorité - LR)",
+    "scores": [
+      { "label": "LR-Majorité", "value": 37.5, "color": "#0066cc" },
+      { "label": "PS-Front Populaire", "value": 36, "color": "#ec008c" },
+      { "label": "EELV", "value": 11, "color": "#24b22c" }
+    ]
+  },
+  ... (pour le maximum de villes possibles)
+]
+
+Règle stricte pour la couleur (color):
+- "#ec008c" pour la Gauche, Socialistes, NFP
+- "#0066cc" pour la Droite, Majorité, LR, Horizons, Modem
+- "#24b22c" pour l'Écologie, EELV
+- "#c80000" pour l'Extrême-Gauche, LFI, PCF
+- "#000032" pour l'Extrême-Droite, RN, Reconquête
+- "#aaaaaa" (ou autre) pour Divers.

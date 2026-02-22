@@ -1,0 +1,20 @@
+Cherche les derniers sondages pour l'élection présidentielle française 2027 (Premier Tour).
+Analyse les résultats les plus récents de différents instituts (IFOP, IPSOS, OpinionWay, Elabe, etc.).
+Génère un fichier JSON strictement conforme à cette structure, en agrégeant ou en prenant le sondage le plus récent.
+
+RÈGLES :
+1. Les scores doivent être des nombres.
+2. Le total doit faire 100% (ajuste proportionnellement si besoin).
+3. Utilise ces codes couleurs HEX : RN (#800080), Renaissance/Centre (#ffcc00), Horizons (#1e40af), LFI (#cc2443), PS (#e61973), EELV (#00b25d), LR (#0066cc).
+4. Pour 'name', utilise l'initiale du prénom et le nom (ex: J. Bardella).
+5. 'lastUpdate' doit être la date du jour (date de génération du JSON par l'IA) au format DD/MM/YYYY.
+
+FORMAT JSON :
+{
+  "cachedAt": [TIMESTAMP_ACTUEL_MS],
+  "lastUpdate": "21/02/2026",
+  "candidates": [
+    { "name": "Init. Nom", "fullName": "Prénom Nom", "score": 25.5, "color": "#HEX" },
+    ...
+  ]
+}
